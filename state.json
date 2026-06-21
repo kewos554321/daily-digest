@@ -1,12 +1,10 @@
 {
   "finance_queue": [
-    "52-Week High/Low and Moving Averages",
     "Sector rotation strategy",
     "Enterprise Value (EV) and EV/EBITDA"
   ],
-  "finance_last": "Debt-to-Equity Ratio",
+  "finance_last": "52-Week High/Low and Moving Averages",
   "leetcode_queue": [
-    "210. Course Schedule II [Graphs]",
     "190. Reverse Bits [Bit Manipulation]",
     "518. Coin Change II [2D DP]",
     "139. Word Break [1D DP]",
@@ -27,18 +25,16 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "20. Valid Parentheses [Stack]",
+  "leetcode_last": "210. Course Schedule II [Graphs]",
   "tech_queue": [
-    "LLM RAG Architecture",
     "Blue-Green vs Canary Deployments",
     "OAuth 2.0 and JWT internals",
     "API Versioning Strategies",
     "Event-Driven Architecture",
     "Zero-downtime Database Migrations"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "LLM RAG Architecture",
   "photography_queue": [
-    "Composition — Symmetry and Reflections [Composition]",
     "Special — Double Exposure: In-Camera vs Post [Special]",
     "Composition — Leading Lines and Visual Flow [Composition]",
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
@@ -109,9 +105,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
+  "photography_last": "Composition — Symmetry and Reflections [Composition]",
   "youtube_queue": [
-    "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]",
     "策略 — Shorts 與長影片的搭配策略 [策略]",
     "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]",
     "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]",
@@ -152,5 +147,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]"
+  "youtube_last": "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]"
 }
