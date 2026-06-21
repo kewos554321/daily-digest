@@ -212,6 +212,8 @@ def main():
     print("Pushing to obsidian-note-openclaw repo...")
     repo = cfg.OBSIDIAN_REPO
     cmds = [
+        ["git", "-C", repo, "config", "user.email", "github-actions[bot]@users.noreply.github.com"],
+        ["git", "-C", repo, "config", "user.name", "github-actions[bot]"],
         ["git", "-C", repo, "add", md_path],
         ["git", "-C", repo, "commit", "-m", f"digest: {date_str} {slug}"],
         ["git", "-C", repo, "push"],
@@ -242,7 +244,7 @@ def main():
         )
         with urllib.request.urlopen(req, timeout=15) as r:
             result = json.loads(r.read())
-        print("LINE sent." if result.get("message") == "ok" else f"LINE failed: {result}")
+        print("LINE sent." if "sentMessages" in result else f"LINE failed: {result}")
     except Exception as e:
         print(f"LINE failed: {e}")
     print("\nDone.")
