@@ -55,6 +55,7 @@ jobs:
         run: python aggregate.py
         env:
           LINE_NOTIFY_TOKEN: ${{ secrets.LINE_NOTIFY_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
           OBSIDIAN_DIR: ${{ github.workspace }}/obsidian-note-openclaw/inbox
           OBSIDIAN_REPO: ${{ github.workspace }}/obsidian-note-openclaw
 

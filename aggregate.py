@@ -228,17 +228,23 @@ def main():
     )
     message = f"{line_msg}\n\n📁 {date_str} 完整摘要已推送至 obsidian-note-openclaw/inbox\n🔗 {github_link}"
     try:
-        payload = urllib.parse.urlencode({"message": message}).encode()
+        payload = json.dumps({
+            "to": cfg.LINE_USER_ID,
+            "messages": [{"type": "text", "text": message}],
+        }).encode()
         req = urllib.request.Request(
-            "https://notify-api.line.me/api/notify",
+            "https://api.line.me/v2/bot/message/push",
             data=payload,
-            headers={"Authorization": f"Bearer {cfg.LINE_NOTIFY_TOKEN}"},
+            headers={
+                "Content-Type": "application/json",
+                "Authorization": f"Bearer {cfg.LINE_NOTIFY_TOKEN}",
+            },
         )
         with urllib.request.urlopen(req, timeout=15) as r:
-            status = json.loads(r.read()).get("status")
-        print("LINE Notify sent." if status == 200 else f"LINE Notify failed: status={status}")
+            result = json.loads(r.read())
+        print("LINE sent." if result.get("message") == "ok" else f"LINE failed: {result}")
     except Exception as e:
-        print(f"LINE Notify failed: {e}")
+        print(f"LINE failed: {e}")
     print("\nDone.")
 
 
