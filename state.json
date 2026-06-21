@@ -1,13 +1,11 @@
 {
   "finance_queue": [
-    "Debt-to-Equity Ratio",
     "52-Week High/Low and Moving Averages",
     "Sector rotation strategy",
     "Enterprise Value (EV) and EV/EBITDA"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "Debt-to-Equity Ratio",
   "leetcode_queue": [
-    "20. Valid Parentheses [Stack]",
     "210. Course Schedule II [Graphs]",
     "190. Reverse Bits [Bit Manipulation]",
     "518. Coin Change II [2D DP]",
@@ -29,9 +27,8 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "239. Sliding Window Maximum [Sliding Window]",
+  "leetcode_last": "20. Valid Parentheses [Stack]",
   "tech_queue": [
-    "Circuit Breaker Pattern",
     "LLM RAG Architecture",
     "Blue-Green vs Canary Deployments",
     "OAuth 2.0 and JWT internals",
@@ -39,9 +36,8 @@
     "Event-Driven Architecture",
     "Zero-downtime Database Migrations"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Circuit Breaker Pattern",
   "photography_queue": [
-    "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Composition — Symmetry and Reflections [Composition]",
     "Special — Double Exposure: In-Camera vs Post [Special]",
     "Composition — Leading Lines and Visual Flow [Composition]",
@@ -113,9 +109,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Portrait — Skin Tone Rendering and White Balance [Portrait]",
+  "photography_last": "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
   "youtube_queue": [
-    "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]",
     "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]",
     "策略 — Shorts 與長影片的搭配策略 [策略]",
     "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]",
@@ -157,5 +152,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]"
+  "youtube_last": "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]"
 }
