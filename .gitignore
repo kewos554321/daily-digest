@@ -1,0 +1,4 @@
+output/
+digest.log
+__pycache__/
+*.pyc

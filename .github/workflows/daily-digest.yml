@@ -1,0 +1,67 @@
+name: Daily Digest
+
+on:
+  schedule:
+    - cron: '0 1 * * *'  # 9:00 AM UTC+8 (Taipei)
+  workflow_dispatch:       # allow manual trigger from GitHub UI
+
+jobs:
+  digest:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write      # needed to commit state.json back
+
+    env:
+      DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+      FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+
+    steps:
+      - name: Checkout digest repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout Obsidian repo
+        uses: actions/checkout@v4
+        with:
+          repository: kewos554321/obsidian-note-openclaw
+          ssh-key: ${{ secrets.OBSIDIAN_DEPLOY_KEY }}
+          path: obsidian-note-openclaw
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Tech
+        run: python tech.py
+
+      - name: Finance
+        run: python finance.py
+
+      - name: News
+        run: python news.py
+
+      - name: Savings
+        run: python savings.py
+
+      - name: Learning
+        run: python learning.py
+
+      - name: Immigration
+        run: python immigration.py
+
+      - name: Aggregate
+        run: python aggregate.py
+        env:
+          LINE_NOTIFY_TOKEN: ${{ secrets.LINE_NOTIFY_TOKEN }}
+          OBSIDIAN_DIR: ${{ github.workspace }}/obsidian-note-openclaw/inbox
+          OBSIDIAN_REPO: ${{ github.workspace }}/obsidian-note-openclaw
+
+      - name: Commit state.json
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add state.json
+          git diff --cached --quiet || git commit -m "chore: update rotation state [skip ci]"
+          git push
