@@ -11,7 +11,7 @@ DEEPSEEK_API_KEY  = os.environ["DEEPSEEK_API_KEY"]
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/chat/completions"
 FMP_API_KEY       = os.environ["FMP_API_KEY"]
 FMP_BASE_URL      = "https://financialmodelingprep.com/stable"
-LINE_NOTIFY_TOKEN = os.environ["LINE_NOTIFY_TOKEN"]
+LINE_NOTIFY_TOKEN = os.environ.get("LINE_NOTIFY_TOKEN", "")
 OBSIDIAN_DIR      = os.environ.get("OBSIDIAN_DIR", "/root/Documents/obsidian-note-openclaw/inbox")
 OBSIDIAN_REPO     = os.environ.get("OBSIDIAN_REPO", "/root/Documents/obsidian-note-openclaw")
 TZ                = timezone(timedelta(hours=8))
