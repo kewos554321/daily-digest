@@ -79,17 +79,45 @@ Data:
 {combined}""", max_tokens=1000)
 
 
-def generate_line_highlight(sections):
-    """ONE sentence in Traditional Chinese — the single most interesting thing today."""
-    combined = "\n".join(f"[{s['topic']}] {s['summary'][:300]}" for s in sections)
+CATEGORY_EMOJI = {
+    "tech":        "💻 Tech",
+    "finance":     "📈 Finance",
+    "news":        "🌍 News",
+    "savings":     "✈️ Savings",
+    "learning":    "📚 Learning",
+    "immigration": "🛂 Immigration",
+}
+
+
+def generate_line_digest(sections):
+    """Structured LINE digest: one line per category with a 1-2 sentence summary."""
+    # Group sections by category, merge summaries
+    groups = {}
+    for s in sections:
+        cat = next((c for c in CATEGORY_EMOJI if s["topic"].startswith(c)), "other")
+        groups.setdefault(cat, []).append(f"[{s['topic']}] {s['summary'][:400]}")
+
+    group_text = "\n\n".join(
+        f"=== {CATEGORY_EMOJI.get(cat, cat.upper())} ===\n" + "\n".join(entries)
+        for cat, entries in groups.items()
+    )
+
     try:
-        return call_deepseek(
-            f"從今日摘要中，挑出對台灣軟體工程師最值得關注的一件事。"
-            f"只回覆一句繁體中文，最多60字，開頭加相關emoji。\n\n{combined}",
-            max_tokens=80, temperature=0.5
+        raw = call_deepseek(
+            f"你是台灣軟體工程師的每日摘要助手。\n"
+            f"針對以下每個 category，用繁體中文寫一行重點摘要（≤50字），"
+            f"直接描述最值得關注的事，開頭不要重複 category 名稱。\n"
+            f"回覆格式（每行一個 category，照順序）：\n"
+            + "\n".join(f"{CATEGORY_EMOJI.get(cat, cat)}  [摘要]" for cat in groups)
+            + f"\n\n資料：\n{group_text}",
+            max_tokens=400, temperature=0.3
         )
+        return raw.strip()
     except Exception:
-        return "📋 今日摘要已整理完成"
+        # Fallback: plain category list
+        return "\n".join(
+            f"{CATEGORY_EMOJI.get(cat, cat)}  今日資料已整理" for cat in groups
+        )
 
 
 def compile_markdown(date_str, highlights, sections):
@@ -105,23 +133,14 @@ def compile_markdown(date_str, highlights, sections):
     )
     toc = f"**今日涵蓋 Sections：**\n{toc_items}"
 
-    CATEGORY_LABELS = {
-        "tech":        "💻 Tech",
-        "finance":     "📈 Finance",
-        "news":        "🌍 News",
-        "savings":     "✈️ Savings",
-        "learning":    "📚 Learning",
-        "immigration": "🛂 Immigration",
-    }
-
     # Detailed section content — grouped by category, full raw_md per section
     detail_parts = []
     current_cat = None
     for s in sections:
-        cat = next((c for c in CATEGORY_LABELS if s["topic"].startswith(c)), None)
+        cat = next((c for c in CATEGORY_EMOJI if s["topic"].startswith(c)), None)
         if cat != current_cat:
             current_cat = cat
-            label = CATEGORY_LABELS.get(cat, cat.title())
+            label = CATEGORY_EMOJI.get(cat, cat.title())
             detail_parts.append(f"## {label}")
         ts = s.get("generated_at", "")
         ts_line = f"\n> `{ts}`" if ts else ""
@@ -189,9 +208,9 @@ def main():
     print("\nGenerating highlights...")
     highlights = generate_highlights(sections)
 
-    print("Generating LINE highlight...")
-    line_msg = generate_line_highlight(sections)
-    print(f"  {line_msg}")
+    print("Generating LINE digest...")
+    line_digest = generate_line_digest(sections)
+    print(f"  {line_digest}")
 
     print("Generating slug...")
     slug = generate_slug(sections)
@@ -228,7 +247,7 @@ def main():
         f"https://github.com/kewos554321/obsidian-note-openclaw/blob/main/inbox"
         f"/{date_str}-{slug}.md"
     )
-    message = f"{line_msg}\n\n📁 {date_str} 完整摘要已推送至 obsidian-note-openclaw/inbox\n🔗 {github_link}"
+    message = f"📋 Daily Digest — {date_str}\n\n{line_digest}\n\n🔗 {github_link}"
     try:
         payload = json.dumps({
             "to": cfg.LINE_USER_ID,
