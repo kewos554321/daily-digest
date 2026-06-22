@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Sector rotation strategy",
     "Index Fund vs. ETF differences",
     "Beta and Volatility",
     "Market Capitalization tiers (Large/Mid/Small cap)",
@@ -20,9 +19,8 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Bond yield and its inverse relationship with price",
+  "finance_last": "Sector rotation strategy",
   "leetcode_queue": [
-    "416. Partition Equal Subset Sum [1D DP]",
     "11. Container With Most Water [Two Pointers]",
     "74. Search a 2D Matrix [Binary Search]",
     "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
@@ -39,14 +37,12 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "139. Word Break [1D DP]",
+  "leetcode_last": "416. Partition Equal Subset Sum [1D DP]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "Zero-downtime Database Migrations"
   ],
-  "tech_last": "API Versioning Strategies",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Light — Histogram Reading and Expose to the Right [Light]",
     "Video — B-Roll Strategy and Coverage Ratios [Video]",
     "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
     "Portrait — Shallow Depth of Field and Bokeh Control [Portrait]",
@@ -113,9 +109,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
+  "photography_last": "Light — Histogram Reading and Expose to the Right [Light]",
   "youtube_queue": [
-    "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
     "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]",
@@ -152,5 +147,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]"
+  "youtube_last": "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]"
 }
