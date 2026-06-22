@@ -1,8 +1,27 @@
 {
-  "finance_queue": [],
-  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
+  "finance_queue": [
+    "Sector rotation strategy",
+    "Index Fund vs. ETF differences",
+    "Beta and Volatility",
+    "Market Capitalization tiers (Large/Mid/Small cap)",
+    "Earnings Per Share (EPS)",
+    "52-Week High/Low and Moving Averages",
+    "Dollar-Cost Averaging (DCA)",
+    "Gross Margin and Operating Margin",
+    "Dividend Yield and Payout Ratio",
+    "Short Interest and Days to Cover",
+    "Price-to-Earnings (P/E) Ratio",
+    "Enterprise Value (EV) and EV/EBITDA",
+    "How to read an earnings report",
+    "Free Cash Flow (FCF)",
+    "The VIX (Fear Index)",
+    "Debt-to-Equity Ratio",
+    "Price-to-Book (P/B) Ratio",
+    "Revenue vs. Net Income",
+    "Return on Equity (ROE)"
+  ],
+  "finance_last": "Bond yield and its inverse relationship with price",
   "leetcode_queue": [
-    "139. Word Break [1D DP]",
     "416. Partition Equal Subset Sum [1D DP]",
     "11. Container With Most Water [Two Pointers]",
     "74. Search a 2D Matrix [Binary Search]",
@@ -20,15 +39,13 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "518. Coin Change II [2D DP]",
+  "leetcode_last": "139. Word Break [1D DP]",
   "tech_queue": [
-    "API Versioning Strategies",
     "Event-Driven Architecture",
     "Zero-downtime Database Migrations"
   ],
-  "tech_last": "OAuth 2.0 and JWT internals",
+  "tech_last": "API Versioning Strategies",
   "photography_queue": [
-    "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
     "Light — Histogram Reading and Expose to the Right [Light]",
     "Video — B-Roll Strategy and Coverage Ratios [Video]",
     "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
@@ -96,9 +113,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Composition — Leading Lines and Visual Flow [Composition]",
+  "photography_last": "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
   "youtube_queue": [
-    "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
@@ -136,5 +152,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]"
+  "youtube_last": "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]"
 }
