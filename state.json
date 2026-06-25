@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Market Capitalization tiers (Large/Mid/Small cap)",
     "Earnings Per Share (EPS)",
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)",
@@ -17,9 +16,8 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
   "leetcode_queue": [
-    "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
     "200. Number of Islands [Graphs]",
     "424. Longest Repeating Character Replacement [Sliding Window]",
     "235. Lowest Common Ancestor of BST [Trees]",
@@ -33,9 +31,8 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "74. Search a 2D Matrix [Binary Search]",
+  "leetcode_last": "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
   "tech_queue": [
-    "Database Connection Pooling",
     "Distributed Transactions and the Saga Pattern",
     "Blue-Green vs Canary Deployments",
     "Message Queues (Kafka vs RabbitMQ)",
@@ -55,9 +52,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "Database Connection Pooling",
   "photography_queue": [
-    "Portrait — Shallow Depth of Field and Bokeh Control [Portrait]",
     "Special — Food and Product Still Life Lighting [Special]",
     "Portrait — Window Light and Natural Diffusion [Portrait]",
     "Portrait — Butterfly / Clamshell Lighting for Beauty Shots [Portrait]",
@@ -121,9 +117,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
+  "photography_last": "Portrait — Shallow Depth of Field and Bokeh Control [Portrait]",
   "youtube_queue": [
-    "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]",
     "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]",
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]",
@@ -157,5 +152,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]"
+  "youtube_last": "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]"
 }
