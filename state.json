@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)",
     "Gross Margin and Operating Margin",
     "Dividend Yield and Payout Ratio",
@@ -15,9 +14,8 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Earnings Per Share (EPS)",
+  "finance_last": "52-Week High/Low and Moving Averages",
   "leetcode_queue": [
-    "424. Longest Repeating Character Replacement [Sliding Window]",
     "235. Lowest Common Ancestor of BST [Trees]",
     "73. Set Matrix Zeroes [Math & Geometry]",
     "136. Single Number [Bit Manipulation]",
@@ -29,9 +27,8 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "200. Number of Islands [Graphs]",
+  "leetcode_last": "424. Longest Repeating Character Replacement [Sliding Window]",
   "tech_queue": [
-    "Blue-Green vs Canary Deployments",
     "Message Queues (Kafka vs RabbitMQ)",
     "Vector Databases and Embeddings",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
@@ -49,9 +46,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "Blue-Green vs Canary Deployments",
   "photography_queue": [
-    "Portrait — Window Light and Natural Diffusion [Portrait]",
     "Portrait — Butterfly / Clamshell Lighting for Beauty Shots [Portrait]",
     "Landscape — Golden Hour and Blue Hour Timing [Landscape]",
     "Sony A7C — S-Cinetone Color Profile for Cinematic Look [Sony A7C]",
@@ -113,9 +109,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Special — Food and Product Still Life Lighting [Special]",
+  "photography_last": "Portrait — Window Light and Natural Diffusion [Portrait]",
   "youtube_queue": [
-    "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]",
     "策略 — YouTube SEO：標題 / 描述 / 標籤 / 章節 [策略]",
     "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]",
@@ -147,5 +142,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]"
+  "youtube_last": "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]"
 }
