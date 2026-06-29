@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Gross Margin and Operating Margin",
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover",
     "Price-to-Earnings (P/E) Ratio",
@@ -13,9 +12,8 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_last": "Gross Margin and Operating Margin",
   "leetcode_queue": [
-    "73. Set Matrix Zeroes [Math & Geometry]",
     "136. Single Number [Bit Manipulation]",
     "1. Two Sum [Arrays & Hashing]",
     "49. Group Anagrams [Arrays & Hashing]",
@@ -25,9 +23,8 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "235. Lowest Common Ancestor of BST [Trees]",
+  "leetcode_last": "73. Set Matrix Zeroes [Math & Geometry]",
   "tech_queue": [
-    "Vector Databases and Embeddings",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "CQRS and Event Sourcing",
     "Zero-downtime Database Migrations",
@@ -43,9 +40,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
+  "tech_last": "Vector Databases and Embeddings",
   "photography_queue": [
-    "Landscape — Golden Hour and Blue Hour Timing [Landscape]",
     "Sony A7C — S-Cinetone Color Profile for Cinematic Look [Sony A7C]",
     "Light — Overcast Sky as a Natural Softbox [Light]",
     "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
@@ -105,9 +101,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Portrait — Butterfly / Clamshell Lighting for Beauty Shots [Portrait]",
+  "photography_last": "Landscape — Golden Hour and Blue Hour Timing [Landscape]",
   "youtube_queue": [
-    "策略 — YouTube SEO：標題 / 描述 / 標籤 / 章節 [策略]",
     "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]",
     "旅遊 — 旅遊 Vlog 的音樂選擇與版權注意事項 [旅遊]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
@@ -137,5 +132,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]"
+  "youtube_last": "策略 — YouTube SEO：標題 / 描述 / 標籤 / 章節 [策略]"
 }
