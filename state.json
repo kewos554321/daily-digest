@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Short Interest and Days to Cover",
     "Price-to-Earnings (P/E) Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
     "How to read an earnings report",
@@ -11,9 +10,8 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Dividend Yield and Payout Ratio",
+  "finance_last": "Short Interest and Days to Cover",
   "leetcode_queue": [
-    "1. Two Sum [Arrays & Hashing]",
     "49. Group Anagrams [Arrays & Hashing]",
     "90. Subsets II [Backtracking]",
     "131. Palindrome Partitioning [Backtracking]",
@@ -21,9 +19,8 @@
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "136. Single Number [Bit Manipulation]",
+  "leetcode_last": "1. Two Sum [Arrays & Hashing]",
   "tech_queue": [
-    "CQRS and Event Sourcing",
     "Zero-downtime Database Migrations",
     "Event-Driven Architecture",
     "API Versioning Strategies",
@@ -37,9 +34,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "tech_last": "CQRS and Event Sourcing",
   "photography_queue": [
-    "Light — Overcast Sky as a Natural Softbox [Light]",
     "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
     "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
     "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
@@ -97,9 +93,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Sony A7C — S-Cinetone Color Profile for Cinematic Look [Sony A7C]",
+  "photography_last": "Light — Overcast Sky as a Natural Softbox [Light]",
   "youtube_queue": [
-    "旅遊 — 旅遊 Vlog 的音樂選擇與版權注意事項 [旅遊]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
     "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]",
     "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]",
@@ -127,5 +122,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]"
+  "youtube_last": "旅遊 — 旅遊 Vlog 的音樂選擇與版權注意事項 [旅遊]"
 }
