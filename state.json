@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Enterprise Value (EV) and EV/EBITDA",
     "How to read an earnings report",
     "Free Cash Flow (FCF)",
     "The VIX (Fear Index)",
@@ -9,17 +8,15 @@
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Price-to-Earnings (P/E) Ratio",
+  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
   "leetcode_queue": [
-    "90. Subsets II [Backtracking]",
     "131. Palindrome Partitioning [Backtracking]",
     "252. Meeting Rooms [Intervals]",
     "72. Edit Distance [2D DP]",
     "153. Find Minimum in Rotated Sorted Array [Binary Search]"
   ],
-  "leetcode_last": "49. Group Anagrams [Arrays & Hashing]",
+  "leetcode_last": "90. Subsets II [Backtracking]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "API Versioning Strategies",
     "Observability: Metrics, Logs, Traces",
     "LLM RAG Architecture",
@@ -31,9 +28,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Zero-downtime Database Migrations",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
     "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
     "Light — Dynamic Range and Avoiding Blown Highlights [Light]",
     "Sony A7C — AF Tracking Sensitivity and Subject Switch Settings [Sony A7C]",
@@ -89,9 +85,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
+  "photography_last": "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
   "youtube_queue": [
-    "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]",
     "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]",
     "策略 — 如何用第一個 1000 訂閱打基礎 [策略]",
     "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
@@ -117,5 +112,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]"
+  "youtube_last": "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]"
 }
