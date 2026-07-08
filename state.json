@@ -1,17 +1,13 @@
 {
   "finance_queue": [
-    "Debt-to-Equity Ratio",
     "Price-to-Book (P/B) Ratio",
     "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "The VIX (Fear Index)",
-  "leetcode_queue": [
-    "153. Find Minimum in Rotated Sorted Array [Binary Search]"
-  ],
-  "leetcode_last": "72. Edit Distance [2D DP]",
+  "finance_last": "Debt-to-Equity Ratio",
+  "leetcode_queue": [],
+  "leetcode_last": "153. Find Minimum in Rotated Sorted Array [Binary Search]",
   "tech_queue": [
-    "Consistent Hashing",
     "OAuth 2.0 and JWT internals",
     "CAP Theorem",
     "Kubernetes Pod Scheduling",
@@ -19,9 +15,8 @@
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "LLM RAG Architecture",
+  "tech_last": "Consistent Hashing",
   "photography_queue": [
-    "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
     "Color — Complementary Colors in Photography [Color Theory]",
     "Special — Film Photography Aesthetic and Grain Simulation [Special]",
     "Video — Rack Focus and Pull Focus Techniques [Video]",
@@ -73,9 +68,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Sony A7C — AF Tracking Sensitivity and Subject Switch Settings [Sony A7C]",
+  "photography_last": "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
   "youtube_queue": [
-    "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]",
     "AI 剪輯 — ChatGPT 輔助腳本：從主題到逐字稿的流程 [AI剪輯]",
     "生活 — Morning Routine / Night Routine 影片公式 [生活]",
     "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
@@ -97,5 +91,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]"
+  "youtube_last": "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]"
 }
