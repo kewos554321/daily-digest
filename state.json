@@ -1,11 +1,9 @@
 {
   "finance_queue": [
-    "Revenue vs. Net Income",
     "Return on Equity (ROE)"
   ],
-  "finance_last": "Price-to-Book (P/B) Ratio",
+  "finance_last": "Revenue vs. Net Income",
   "leetcode_queue": [
-    "153. Find Minimum in Rotated Sorted Array [Binary Search]",
     "739. Daily Temperatures [Stack]",
     "128. Longest Consecutive Sequence [Arrays & Hashing]",
     "84. Largest Rectangle in Histogram [Stack]",
@@ -119,17 +117,15 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "73. Set Matrix Zeroes [Math & Geometry]",
+  "leetcode_last": "153. Find Minimum in Rotated Sorted Array [Binary Search]",
   "tech_queue": [
-    "CAP Theorem",
     "Kubernetes Pod Scheduling",
     "gRPC vs REST vs GraphQL",
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "OAuth 2.0 and JWT internals",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Special — Film Photography Aesthetic and Grain Simulation [Special]",
     "Video — Rack Focus and Pull Focus Techniques [Video]",
     "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
     "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
@@ -179,9 +175,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Color — Complementary Colors in Photography [Color Theory]",
+  "photography_last": "Special — Film Photography Aesthetic and Grain Simulation [Special]",
   "youtube_queue": [
-    "生活 — Morning Routine / Night Routine 影片公式 [生活]",
     "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
     "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]",
@@ -201,5 +196,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "AI 剪輯 — ChatGPT 輔助腳本：從主題到逐字稿的流程 [AI剪輯]"
+  "youtube_last": "生活 — Morning Routine / Night Routine 影片公式 [生活]"
 }
