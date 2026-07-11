@@ -1,10 +1,7 @@
 {
-  "finance_queue": [
-    "Return on Equity (ROE)"
-  ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_queue": [],
+  "finance_last": "Return on Equity (ROE)",
   "leetcode_queue": [
-    "739. Daily Temperatures [Stack]",
     "128. Longest Consecutive Sequence [Arrays & Hashing]",
     "84. Largest Rectangle in Histogram [Stack]",
     "22. Generate Parentheses [Stack]",
@@ -117,16 +114,14 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "153. Find Minimum in Rotated Sorted Array [Binary Search]",
+  "leetcode_last": "739. Daily Temperatures [Stack]",
   "tech_queue": [
-    "Kubernetes Pod Scheduling",
     "gRPC vs REST vs GraphQL",
     "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "CAP Theorem",
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Video — Rack Focus and Pull Focus Techniques [Video]",
     "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
     "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
     "Exposure — Shutter Speed for Motion Freeze vs Blur [Exposure]",
@@ -175,9 +170,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Special — Film Photography Aesthetic and Grain Simulation [Special]",
+  "photography_last": "Video — Rack Focus and Pull Focus Techniques [Video]",
   "youtube_queue": [
-    "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
     "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]",
     "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]",
@@ -196,5 +190,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "生活 — Morning Routine / Night Routine 影片公式 [生活]"
+  "youtube_last": "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]"
 }
