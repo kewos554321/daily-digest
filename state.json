@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "The VIX (Fear Index)",
     "Index Fund vs. ETF differences",
     "How to read an earnings report",
     "Bond yield and its inverse relationship with price",
@@ -20,9 +19,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Debt-to-Equity Ratio",
+  "finance_last": "The VIX (Fear Index)",
   "leetcode_queue": [
-    "84. Largest Rectangle in Histogram [Stack]",
     "22. Generate Parentheses [Stack]",
     "131. Palindrome Partitioning [Backtracking]",
     "23. Merge K Sorted Lists [Linked List]",
@@ -133,14 +131,12 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "128. Longest Consecutive Sequence [Arrays & Hashing]",
+  "leetcode_last": "84. Largest Rectangle in Histogram [Stack]",
   "tech_queue": [
-    "Database Indexing Strategies",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "Database Indexing Strategies",
   "photography_queue": [
-    "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
     "Exposure — Shutter Speed for Motion Freeze vs Blur [Exposure]",
     "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
     "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
@@ -187,9 +183,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
+  "photography_last": "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
   "youtube_queue": [
-    "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]",
     "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]",
     "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
     "Script — 如何用一句話定義影片核心訊息 [腳本]",
@@ -206,5 +201,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "Filmora — AI 降噪與人聲增強功能 [Filmora]"
+  "youtube_last": "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]"
 }
