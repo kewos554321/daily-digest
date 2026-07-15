@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "How to read an earnings report",
     "Bond yield and its inverse relationship with price",
     "Sector rotation strategy",
     "Dividend Yield and Payout Ratio",
@@ -18,9 +17,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "How to read an earnings report",
   "leetcode_queue": [
-    "131. Palindrome Partitioning [Backtracking]",
     "23. Merge K Sorted Lists [Linked List]",
     "5. Longest Palindromic Substring [1D DP]",
     "134. Gas Station [Greedy]",
@@ -129,11 +127,30 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "22. Generate Parentheses [Stack]",
-  "tech_queue": [],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "leetcode_last": "131. Palindrome Partitioning [Backtracking]",
+  "tech_queue": [
+    "Distributed Transactions and the Saga Pattern",
+    "Kubernetes Pod Scheduling",
+    "Consistent Hashing",
+    "Message Queues (Kafka vs RabbitMQ)",
+    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+    "Caching Strategies (Cache-aside, Write-through, Write-back)",
+    "Database Indexing Strategies",
+    "Blue-Green vs Canary Deployments",
+    "CQRS and Event Sourcing",
+    "Vector Databases and Embeddings",
+    "Zero-downtime Database Migrations",
+    "gRPC vs REST vs GraphQL",
+    "Circuit Breaker Pattern",
+    "Observability: Metrics, Logs, Traces",
+    "LLM RAG Architecture",
+    "API Versioning Strategies",
+    "CAP Theorem",
+    "OAuth 2.0 and JWT internals",
+    "Database Connection Pooling"
+  ],
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
     "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
     "Landscape — Long Exposure with ND Filters [Landscape]",
     "Landscape — Foreground Interest and Depth [Landscape]",
@@ -178,9 +195,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Exposure — Shutter Speed for Motion Freeze vs Blur [Exposure]",
+  "photography_last": "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
   "youtube_queue": [
-    "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
     "Script — 如何用一句話定義影片核心訊息 [腳本]",
     "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
@@ -195,5 +211,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]"
+  "youtube_last": "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]"
 }
