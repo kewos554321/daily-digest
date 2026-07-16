@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Bond yield and its inverse relationship with price",
     "Sector rotation strategy",
     "Dividend Yield and Payout Ratio",
     "Gross Margin and Operating Margin",
@@ -17,9 +16,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "How to read an earnings report",
+  "finance_last": "Bond yield and its inverse relationship with price",
   "leetcode_queue": [
-    "23. Merge K Sorted Lists [Linked List]",
     "5. Longest Palindromic Substring [1D DP]",
     "134. Gas Station [Greedy]",
     "4. Median of Two Sorted Arrays [Binary Search]",
@@ -127,9 +125,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "131. Palindrome Partitioning [Backtracking]",
+  "leetcode_last": "23. Merge K Sorted Lists [Linked List]",
   "tech_queue": [
-    "Distributed Transactions and the Saga Pattern",
     "Kubernetes Pod Scheduling",
     "Consistent Hashing",
     "Message Queues (Kafka vs RabbitMQ)",
@@ -149,9 +146,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "Event-Driven Architecture",
+  "tech_last": "Distributed Transactions and the Saga Pattern",
   "photography_queue": [
-    "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
     "Landscape — Long Exposure with ND Filters [Landscape]",
     "Landscape — Foreground Interest and Depth [Landscape]",
     "Portrait — Posing Techniques for Flattering Angles [Portrait]",
@@ -195,9 +191,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
+  "photography_last": "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
   "youtube_queue": [
-    "Script — 如何用一句話定義影片核心訊息 [腳本]",
     "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]",
@@ -211,5 +206,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]"
+  "youtube_last": "Script — 如何用一句話定義影片核心訊息 [腳本]"
 }
