@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Sector rotation strategy",
     "Dividend Yield and Payout Ratio",
     "Gross Margin and Operating Margin",
     "Revenue vs. Net Income",
@@ -16,9 +15,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Bond yield and its inverse relationship with price",
+  "finance_last": "Sector rotation strategy",
   "leetcode_queue": [
-    "5. Longest Palindromic Substring [1D DP]",
     "134. Gas Station [Greedy]",
     "4. Median of Two Sorted Arrays [Binary Search]",
     "49. Group Anagrams [Arrays & Hashing]",
@@ -125,9 +123,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "23. Merge K Sorted Lists [Linked List]",
+  "leetcode_last": "5. Longest Palindromic Substring [1D DP]",
   "tech_queue": [
-    "Kubernetes Pod Scheduling",
     "Consistent Hashing",
     "Message Queues (Kafka vs RabbitMQ)",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
@@ -146,9 +143,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Landscape — Long Exposure with ND Filters [Landscape]",
     "Landscape — Foreground Interest and Depth [Landscape]",
     "Portrait — Posing Techniques for Flattering Angles [Portrait]",
     "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
@@ -191,9 +187,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
+  "photography_last": "Landscape — Long Exposure with ND Filters [Landscape]",
   "youtube_queue": [
-    "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]",
     "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
@@ -206,5 +201,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "Script — 如何用一句話定義影片核心訊息 [腳本]"
+  "youtube_last": "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]"
 }
