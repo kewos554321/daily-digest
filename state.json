@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Gross Margin and Operating Margin",
     "Revenue vs. Net Income",
     "Market Capitalization tiers (Large/Mid/Small cap)",
     "Beta and Volatility",
@@ -14,9 +13,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Dividend Yield and Payout Ratio",
+  "finance_last": "Gross Margin and Operating Margin",
   "leetcode_queue": [
-    "4. Median of Two Sorted Arrays [Binary Search]",
     "49. Group Anagrams [Arrays & Hashing]",
     "74. Search a 2D Matrix [Binary Search]",
     "55. Jump Game [Greedy]",
@@ -121,9 +119,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "134. Gas Station [Greedy]",
+  "leetcode_last": "4. Median of Two Sorted Arrays [Binary Search]",
   "tech_queue": [
-    "Message Queues (Kafka vs RabbitMQ)",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies",
@@ -140,9 +137,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "Consistent Hashing",
+  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
   "photography_queue": [
-    "Portrait — Posing Techniques for Flattering Angles [Portrait]",
     "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
     "Composition — Golden Ratio vs Rule of Thirds [Composition]",
     "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
@@ -183,9 +179,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Landscape — Foreground Interest and Depth [Landscape]",
+  "photography_last": "Portrait — Posing Techniques for Flattering Angles [Portrait]",
   "youtube_queue": [
-    "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]",
     "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
     "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]",
     "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
@@ -196,5 +191,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]"
+  "youtube_last": "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
 }
