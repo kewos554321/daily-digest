@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Market Capitalization tiers (Large/Mid/Small cap)",
     "Beta and Volatility",
     "Enterprise Value (EV) and EV/EBITDA",
     "Price-to-Book (P/B) Ratio",
@@ -12,9 +11,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
   "leetcode_queue": [
-    "74. Search a 2D Matrix [Binary Search]",
     "55. Jump Game [Greedy]",
     "424. Longest Repeating Character Replacement [Sliding Window]",
     "146. LRU Cache [Linked List]",
@@ -117,9 +115,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "49. Group Anagrams [Arrays & Hashing]",
+  "leetcode_last": "74. Search a 2D Matrix [Binary Search]",
   "tech_queue": [
-    "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies",
     "Blue-Green vs Canary Deployments",
     "CQRS and Event Sourcing",
@@ -134,9 +131,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
   "photography_queue": [
-    "Composition — Golden Ratio vs Rule of Thirds [Composition]",
     "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
     "Light — Using Reflectors and Diffusers [Light]",
     "Portrait — Rembrandt Lighting Setup [Portrait]",
@@ -175,9 +171,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
+  "photography_last": "Composition — Golden Ratio vs Rule of Thirds [Composition]",
   "youtube_queue": [
-    "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]",
     "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]",
@@ -186,5 +181,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]"
+  "youtube_last": "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]"
 }
