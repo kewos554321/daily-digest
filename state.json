@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Beta and Volatility",
     "Enterprise Value (EV) and EV/EBITDA",
     "Price-to-Book (P/B) Ratio",
     "Price-to-Earnings (P/E) Ratio",
@@ -11,9 +10,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
+  "finance_last": "Beta and Volatility",
   "leetcode_queue": [
-    "55. Jump Game [Greedy]",
     "424. Longest Repeating Character Replacement [Sliding Window]",
     "146. LRU Cache [Linked List]",
     "695. Max Area of Island [Graphs]",
@@ -115,9 +113,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "74. Search a 2D Matrix [Binary Search]",
+  "leetcode_last": "55. Jump Game [Greedy]",
   "tech_queue": [
-    "Database Indexing Strategies",
     "Blue-Green vs Canary Deployments",
     "CQRS and Event Sourcing",
     "Vector Databases and Embeddings",
@@ -131,9 +128,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "tech_last": "Database Indexing Strategies",
   "photography_queue": [
-    "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
     "Light — Using Reflectors and Diffusers [Light]",
     "Portrait — Rembrandt Lighting Setup [Portrait]",
     "Gear — ND Filter Strengths: 3-Stop vs 6-Stop vs 10-Stop [Gear]",
@@ -171,9 +167,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Composition — Golden Ratio vs Rule of Thirds [Composition]",
+  "photography_last": "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
   "youtube_queue": [
-    "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
@@ -181,5 +176,5 @@
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]"
+  "youtube_last": "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]"
 }
