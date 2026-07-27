@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Earnings (P/E) Ratio",
     "Short Interest and Days to Cover",
     "Free Cash Flow (FCF)",
     "Earnings Per Share (EPS)",
@@ -8,9 +7,8 @@
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Price-to-Book (P/B) Ratio",
+  "finance_last": "Price-to-Earnings (P/E) Ratio",
   "leetcode_queue": [
-    "695. Max Area of Island [Graphs]",
     "268. Missing Number [Bit Manipulation]",
     "78. Subsets [Backtracking]",
     "15. 3Sum [Two Pointers]",
@@ -109,9 +107,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "146. LRU Cache [Linked List]",
+  "leetcode_last": "695. Max Area of Island [Graphs]",
   "tech_queue": [
-    "Vector Databases and Embeddings",
     "Zero-downtime Database Migrations",
     "gRPC vs REST vs GraphQL",
     "Circuit Breaker Pattern",
@@ -122,9 +119,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Vector Databases and Embeddings",
   "photography_queue": [
-    "Gear — ND Filter Strengths: 3-Stop vs 6-Stop vs 10-Stop [Gear]",
     "Landscape — Astro / Night Sky Photography Basics [Landscape]",
     "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
     "Special — Underwater Housing and Wet Lenses Basics [Special]",
@@ -159,12 +155,11 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Portrait — Rembrandt Lighting Setup [Portrait]",
+  "photography_last": "Gear — ND Filter Strengths: 3-Stop vs 6-Stop vs 10-Stop [Gear]",
   "youtube_queue": [
-    "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]",
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
   ],
-  "youtube_last": "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]"
+  "youtube_last": "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]"
 }
