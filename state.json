@@ -1,13 +1,11 @@
 {
   "finance_queue": [
-    "Earnings Per Share (EPS)",
     "Return on Equity (ROE)",
     "52-Week High/Low and Moving Averages",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Free Cash Flow (FCF)",
+  "finance_last": "Earnings Per Share (EPS)",
   "leetcode_queue": [
-    "15. 3Sum [Two Pointers]",
     "435. Non-overlapping Intervals [Intervals]",
     "127. Word Ladder [Graphs]",
     "40. Combination Sum II [Backtracking]",
@@ -103,9 +101,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "78. Subsets [Backtracking]",
+  "leetcode_last": "15. 3Sum [Two Pointers]",
   "tech_queue": [
-    "Circuit Breaker Pattern",
     "Observability: Metrics, Logs, Traces",
     "LLM RAG Architecture",
     "API Versioning Strategies",
@@ -113,9 +110,8 @@
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "Circuit Breaker Pattern",
   "photography_queue": [
-    "Special — Underwater Housing and Wet Lenses Basics [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]",
     "Street — Reading Urban Light and Shadows [Street]",
     "Post — Noise Reduction: Lightroom AI vs Topaz DeNoise [Post-Processing]",
@@ -147,9 +143,7 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
-  "youtube_queue": [
-    "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
-  ],
-  "youtube_last": "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]"
+  "photography_last": "Special — Underwater Housing and Wet Lenses Basics [Special]",
+  "youtube_queue": [],
+  "youtube_last": "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
 }
