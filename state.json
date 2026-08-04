@@ -1,8 +1,27 @@
 {
-  "finance_queue": [],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_queue": [
+    "Price-to-Earnings (P/E) Ratio",
+    "Debt-to-Equity Ratio",
+    "Return on Equity (ROE)",
+    "Dollar-Cost Averaging (DCA)",
+    "How to read an earnings report",
+    "The VIX (Fear Index)",
+    "Price-to-Book (P/B) Ratio",
+    "Bond yield and its inverse relationship with price",
+    "52-Week High/Low and Moving Averages",
+    "Earnings Per Share (EPS)",
+    "Gross Margin and Operating Margin",
+    "Sector rotation strategy",
+    "Market Capitalization tiers (Large/Mid/Small cap)",
+    "Revenue vs. Net Income",
+    "Dividend Yield and Payout Ratio",
+    "Enterprise Value (EV) and EV/EBITDA",
+    "Beta and Volatility",
+    "Index Fund vs. ETF differences",
+    "Free Cash Flow (FCF)"
+  ],
+  "finance_last": "Short Interest and Days to Cover",
   "leetcode_queue": [
-    "200. Number of Islands [Graphs]",
     "51. N-Queens [Backtracking]",
     "518. Coin Change II [2D DP]",
     "323. Number of Connected Components in an Undirected Graph [Graphs]",
@@ -94,15 +113,13 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "40. Combination Sum II [Backtracking]",
+  "leetcode_last": "200. Number of Islands [Graphs]",
   "tech_queue": [
-    "CAP Theorem",
     "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "API Versioning Strategies",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Street — Shooting in Busy Environments without Detection [Street]",
     "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
     "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
     "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
@@ -130,9 +147,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — Noise Reduction: Lightroom AI vs Topaz DeNoise [Post-Processing]",
+  "photography_last": "Street — Shooting in Busy Environments without Detection [Street]",
   "youtube_queue": [
-    "AI 剪輯 — ElevenLabs AI 配音：製作旁白不需出鏡 [AI剪輯]",
     "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]",
     "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
@@ -202,5 +218,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — YouTube SEO：標題 / 描述 / 標籤 / 章節 [策略]"
+  "youtube_last": "AI 剪輯 — ElevenLabs AI 配音：製作旁白不需出鏡 [AI剪輯]"
 }
