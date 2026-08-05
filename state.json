@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Earnings (P/E) Ratio",
     "Debt-to-Equity Ratio",
     "Return on Equity (ROE)",
     "Dollar-Cost Averaging (DCA)",
@@ -20,9 +19,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Short Interest and Days to Cover",
+  "finance_last": "Price-to-Earnings (P/E) Ratio",
   "leetcode_queue": [
-    "51. N-Queens [Backtracking]",
     "518. Coin Change II [2D DP]",
     "323. Number of Connected Components in an Undirected Graph [Graphs]",
     "90. Subsets II [Backtracking]",
@@ -113,14 +111,12 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "200. Number of Islands [Graphs]",
+  "leetcode_last": "51. N-Queens [Backtracking]",
   "tech_queue": [
-    "OAuth 2.0 and JWT internals",
     "Database Connection Pooling"
   ],
-  "tech_last": "CAP Theorem",
+  "tech_last": "OAuth 2.0 and JWT internals",
   "photography_queue": [
-    "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
     "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
     "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
     "Post — Sharpening and Clarity vs Texture [Post-Processing]",
@@ -147,9 +143,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Street — Shooting in Busy Environments without Detection [Street]",
+  "photography_last": "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
   "youtube_queue": [
-    "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]",
     "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]",
@@ -218,5 +213,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "AI 剪輯 — ElevenLabs AI 配音：製作旁白不需出鏡 [AI剪輯]"
+  "youtube_last": "剪輯 — 音頻處理：人聲 EQ / 降噪 / 壓縮基礎 [剪輯]"
 }
