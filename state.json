@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Return on Equity (ROE)",
     "Dollar-Cost Averaging (DCA)",
     "How to read an earnings report",
     "The VIX (Fear Index)",
@@ -18,9 +17,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Debt-to-Equity Ratio",
+  "finance_last": "Return on Equity (ROE)",
   "leetcode_queue": [
-    "323. Number of Connected Components in an Undirected Graph [Graphs]",
     "90. Subsets II [Backtracking]",
     "704. Binary Search [Binary Search]",
     "57. Insert Interval [Intervals]",
@@ -109,11 +107,30 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "518. Coin Change II [2D DP]",
-  "tech_queue": [],
-  "tech_last": "Database Connection Pooling",
+  "leetcode_last": "323. Number of Connected Components in an Undirected Graph [Graphs]",
+  "tech_queue": [
+    "Vector Databases and Embeddings",
+    "Circuit Breaker Pattern",
+    "Caching Strategies (Cache-aside, Write-through, Write-back)",
+    "CAP Theorem",
+    "API Versioning Strategies",
+    "CQRS and Event Sourcing",
+    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+    "Database Connection Pooling",
+    "Message Queues (Kafka vs RabbitMQ)",
+    "Consistent Hashing",
+    "OAuth 2.0 and JWT internals",
+    "Database Indexing Strategies",
+    "Blue-Green vs Canary Deployments",
+    "gRPC vs REST vs GraphQL",
+    "Kubernetes Pod Scheduling",
+    "Distributed Transactions and the Saga Pattern",
+    "Event-Driven Architecture",
+    "LLM RAG Architecture",
+    "Observability: Metrics, Logs, Traces"
+  ],
+  "tech_last": "Zero-downtime Database Migrations",
   "photography_queue": [
-    "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
     "Post — Sharpening and Clarity vs Texture [Post-Processing]",
     "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
     "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
@@ -138,9 +155,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
+  "photography_last": "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
   "youtube_queue": [
-    "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]",
     "Filmora — AI 文字轉影片（Text to Video）功能試玩 [Filmora]",
     "策略 — 頻道定位：如何找到你的 Niche [策略]",
@@ -207,5 +223,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]"
+  "youtube_last": "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]"
 }
