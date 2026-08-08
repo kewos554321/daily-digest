@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "How to read an earnings report",
     "The VIX (Fear Index)",
     "Price-to-Book (P/B) Ratio",
     "Bond yield and its inverse relationship with price",
@@ -16,9 +15,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_last": "How to read an earnings report",
   "leetcode_queue": [
-    "704. Binary Search [Binary Search]",
     "57. Insert Interval [Intervals]",
     "1046. Last Stone Weight [Heap]",
     "191. Number of 1 Bits [Bit Manipulation]",
@@ -105,9 +103,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "90. Subsets II [Backtracking]",
+  "leetcode_last": "704. Binary Search [Binary Search]",
   "tech_queue": [
-    "Circuit Breaker Pattern",
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "CAP Theorem",
     "API Versioning Strategies",
@@ -126,9 +123,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Vector Databases and Embeddings",
+  "tech_last": "Circuit Breaker Pattern",
   "photography_queue": [
-    "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
     "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
     "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Composition — Frame within a Frame Technique [Composition]",
@@ -151,9 +147,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — Sharpening and Clarity vs Texture [Post-Processing]",
+  "photography_last": "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
   "youtube_queue": [
-    "Filmora — AI 文字轉影片（Text to Video）功能試玩 [Filmora]",
     "策略 — 頻道定位：如何找到你的 Niche [策略]",
     "開箱 — 評測 vs 開箱 vs 使用心得的定位差異 [開箱]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]",
@@ -218,5 +213,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]"
+  "youtube_last": "Filmora — AI 文字轉影片（Text to Video）功能試玩 [Filmora]"
 }
