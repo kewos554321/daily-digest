@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "The VIX (Fear Index)",
     "Price-to-Book (P/B) Ratio",
     "Bond yield and its inverse relationship with price",
     "52-Week High/Low and Moving Averages",
@@ -15,9 +14,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "How to read an earnings report",
+  "finance_last": "The VIX (Fear Index)",
   "leetcode_queue": [
-    "57. Insert Interval [Intervals]",
     "1046. Last Stone Weight [Heap]",
     "191. Number of 1 Bits [Bit Manipulation]",
     "42. Trapping Rain Water [Two Pointers]",
@@ -103,9 +101,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "704. Binary Search [Binary Search]",
+  "leetcode_last": "57. Insert Interval [Intervals]",
   "tech_queue": [
-    "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "CAP Theorem",
     "API Versioning Strategies",
     "CQRS and Event Sourcing",
@@ -123,9 +120,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
   "photography_queue": [
-    "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
     "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Composition — Frame within a Frame Technique [Composition]",
     "Post — Skin Retouching without Overdoing It [Post-Processing]",
@@ -147,9 +143,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
+  "photography_last": "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
   "youtube_queue": [
-    "策略 — 頻道定位：如何找到你的 Niche [策略]",
     "開箱 — 評測 vs 開箱 vs 使用心得的定位差異 [開箱]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
@@ -213,5 +208,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — AI 文字轉影片（Text to Video）功能試玩 [Filmora]"
+  "youtube_last": "策略 — 頻道定位：如何找到你的 Niche [策略]"
 }
