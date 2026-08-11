@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Bond yield and its inverse relationship with price",
     "52-Week High/Low and Moving Averages",
     "Earnings Per Share (EPS)",
@@ -14,9 +13,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "The VIX (Fear Index)",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "1046. Last Stone Weight [Heap]",
     "191. Number of 1 Bits [Bit Manipulation]",
     "42. Trapping Rain Water [Two Pointers]",
     "199. Binary Tree Right Side View [Trees]",
@@ -101,9 +99,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "57. Insert Interval [Intervals]",
+  "leetcode_last": "1046. Last Stone Weight [Heap]",
   "tech_queue": [
-    "CAP Theorem",
     "API Versioning Strategies",
     "CQRS and Event Sourcing",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
@@ -120,9 +117,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Composition — Frame within a Frame Technique [Composition]",
     "Post — Skin Retouching without Overdoing It [Post-Processing]",
     "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
@@ -143,9 +139,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
+  "photography_last": "Street — Zone Focusing for Fast Candid Shots [Street]",
   "youtube_queue": [
-    "開箱 — 評測 vs 開箱 vs 使用心得的定位差異 [開箱]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
     "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
@@ -208,5 +203,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — 頻道定位：如何找到你的 Niche [策略]"
+  "youtube_last": "開箱 — 評測 vs 開箱 vs 使用心得的定位差異 [開箱]"
 }
