@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Earnings Per Share (EPS)",
     "Gross Margin and Operating Margin",
     "Sector rotation strategy",
     "Market Capitalization tiers (Large/Mid/Small cap)",
@@ -11,9 +10,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "52-Week High/Low and Moving Averages",
+  "finance_last": "Earnings Per Share (EPS)",
   "leetcode_queue": [
-    "199. Binary Tree Right Side View [Trees]",
     "121. Best Time to Buy and Sell Stock [Sliding Window]",
     "102. Binary Tree Level Order Traversal [Trees]",
     "1. Two Sum [Arrays & Hashing]",
@@ -95,9 +93,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "42. Trapping Rain Water [Two Pointers]",
+  "leetcode_last": "199. Binary Tree Right Side View [Trees]",
   "tech_queue": [
-    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Database Connection Pooling",
     "Message Queues (Kafka vs RabbitMQ)",
     "Consistent Hashing",
@@ -111,9 +108,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
   "photography_queue": [
-    "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
     "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
     "Street — Black & White Conversion for Street Impact [Street]",
     "Landscape — Shooting Waterfalls and Silky Water [Landscape]",
@@ -131,9 +127,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — Skin Retouching without Overdoing It [Post-Processing]",
+  "photography_last": "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
   "youtube_queue": [
-    "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
     "策略 — Shorts 與長影片的搭配策略 [策略]",
     "攝影Vlog — 攝影後製直播 / 螢幕錄製教學影片的技巧 [攝影Vlog]",
     "Script — 如何用一句話定義影片核心訊息 [腳本]",
@@ -193,5 +188,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — AI 降噪與人聲增強功能 [Filmora]"
+  "youtube_last": "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]"
 }
