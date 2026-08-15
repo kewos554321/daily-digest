@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Sector rotation strategy",
     "Market Capitalization tiers (Large/Mid/Small cap)",
     "Revenue vs. Net Income",
     "Dividend Yield and Payout Ratio",
@@ -9,9 +8,8 @@
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Gross Margin and Operating Margin",
+  "finance_last": "Sector rotation strategy",
   "leetcode_queue": [
-    "102. Binary Tree Level Order Traversal [Trees]",
     "1. Two Sum [Arrays & Hashing]",
     "211. Design Add and Search Words Data Structure [Tries]",
     "239. Sliding Window Maximum [Sliding Window]",
@@ -91,9 +89,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "121. Best Time to Buy and Sell Stock [Sliding Window]",
+  "leetcode_last": "102. Binary Tree Level Order Traversal [Trees]",
   "tech_queue": [
-    "Message Queues (Kafka vs RabbitMQ)",
     "Consistent Hashing",
     "OAuth 2.0 and JWT internals",
     "Database Indexing Strategies",
@@ -105,9 +102,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Database Connection Pooling",
+  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
   "photography_queue": [
-    "Street — Black & White Conversion for Street Impact [Street]",
     "Landscape — Shooting Waterfalls and Silky Water [Landscape]",
     "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
     "Landscape — GND Filter Usage for Exposure Balance [Landscape]",
@@ -123,9 +119,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
+  "photography_last": "Street — Black & White Conversion for Street Impact [Street]",
   "youtube_queue": [
-    "攝影Vlog — 攝影後製直播 / 螢幕錄製教學影片的技巧 [攝影Vlog]",
     "Script — 如何用一句話定義影片核心訊息 [腳本]",
     "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]",
     "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]",
@@ -183,5 +178,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — Shorts 與長影片的搭配策略 [策略]"
+  "youtube_last": "攝影Vlog — 攝影後製直播 / 螢幕錄製教學影片的技巧 [攝影Vlog]"
 }
