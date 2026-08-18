@@ -1,14 +1,12 @@
 {
   "finance_queue": [
-    "Dividend Yield and Payout Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
     "Beta and Volatility",
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_last": "Dividend Yield and Payout Ratio",
   "leetcode_queue": [
-    "239. Sliding Window Maximum [Sliding Window]",
     "110. Balanced Binary Tree [Trees]",
     "124. Binary Tree Maximum Path Sum [Trees]",
     "11. Container With Most Water [Two Pointers]",
@@ -85,9 +83,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "211. Design Add and Search Words Data Structure [Tries]",
+  "leetcode_last": "239. Sliding Window Maximum [Sliding Window]",
   "tech_queue": [
-    "Database Indexing Strategies",
     "Blue-Green vs Canary Deployments",
     "gRPC vs REST vs GraphQL",
     "Kubernetes Pod Scheduling",
@@ -96,9 +93,8 @@
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "OAuth 2.0 and JWT internals",
+  "tech_last": "Database Indexing Strategies",
   "photography_queue": [
-    "Landscape — GND Filter Usage for Exposure Balance [Landscape]",
     "Portrait — Loop Lighting vs Split Lighting [Portrait]",
     "Street — Layering and Depth in Street Compositions [Street]",
     "Landscape — Hyperfocal Distance Explained [Landscape]",
@@ -111,9 +107,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
+  "photography_last": "Landscape — GND Filter Usage for Exposure Balance [Landscape]",
   "youtube_queue": [
-    "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]",
     "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]",
     "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]",
     "策略 — 如何做頻道競品分析找出內容缺口 [策略]",
@@ -168,5 +163,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]"
+  "youtube_last": "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]"
 }
