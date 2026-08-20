@@ -1,12 +1,10 @@
 {
   "finance_queue": [
-    "Beta and Volatility",
     "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
+  "finance_last": "Beta and Volatility",
   "leetcode_queue": [
-    "124. Binary Tree Maximum Path Sum [Trees]",
     "11. Container With Most Water [Two Pointers]",
     "62. Unique Paths [2D DP]",
     "53. Maximum Subarray [Greedy]",
@@ -81,18 +79,16 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "110. Balanced Binary Tree [Trees]",
+  "leetcode_last": "124. Binary Tree Maximum Path Sum [Trees]",
   "tech_queue": [
-    "gRPC vs REST vs GraphQL",
     "Kubernetes Pod Scheduling",
     "Distributed Transactions and the Saga Pattern",
     "Event-Driven Architecture",
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Blue-Green vs Canary Deployments",
+  "tech_last": "gRPC vs REST vs GraphQL",
   "photography_queue": [
-    "Street — Layering and Depth in Street Compositions [Street]",
     "Landscape — Hyperfocal Distance Explained [Landscape]",
     "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Street — Candid Shooting Mindset and Ethics [Street]",
@@ -103,9 +99,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Portrait — Loop Lighting vs Split Lighting [Portrait]",
+  "photography_last": "Street — Layering and Depth in Street Compositions [Street]",
   "youtube_queue": [
-    "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]",
     "策略 — 如何做頻道競品分析找出內容缺口 [策略]",
     "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]",
     "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
@@ -158,5 +153,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "旅遊 — 旅遊縮圖設計：臉部表情 + 地標 + 文字公式 [旅遊]"
+  "youtube_last": "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]"
 }
