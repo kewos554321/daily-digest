@@ -1,11 +1,9 @@
 {
   "finance_queue": [
-    "Index Fund vs. ETF differences",
     "Free Cash Flow (FCF)"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Index Fund vs. ETF differences",
   "leetcode_queue": [
-    "11. Container With Most Water [Two Pointers]",
     "62. Unique Paths [2D DP]",
     "53. Maximum Subarray [Greedy]",
     "141. Linked List Cycle [Linked List]",
@@ -79,17 +77,15 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "124. Binary Tree Maximum Path Sum [Trees]",
+  "leetcode_last": "11. Container With Most Water [Two Pointers]",
   "tech_queue": [
-    "Kubernetes Pod Scheduling",
     "Distributed Transactions and the Saga Pattern",
     "Event-Driven Architecture",
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Landscape — Hyperfocal Distance Explained [Landscape]",
     "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Street — Candid Shooting Mindset and Ethics [Street]",
     "Video — Audio Basics: On-Camera Mic vs External Recorder [Video]",
@@ -99,9 +95,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Street — Layering and Depth in Street Compositions [Street]",
+  "photography_last": "Landscape — Hyperfocal Distance Explained [Landscape]",
   "youtube_queue": [
-    "策略 — 如何做頻道競品分析找出內容缺口 [策略]",
     "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]",
     "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
     "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]",
@@ -153,5 +148,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Script — 說故事結構：英雄旅程套用在 Vlog [腳本]"
+  "youtube_last": "策略 — 如何做頻道競品分析找出內容缺口 [策略]"
 }
