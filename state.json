@@ -1,8 +1,27 @@
 {
-  "finance_queue": [],
-  "finance_last": "Free Cash Flow (FCF)",
+  "finance_queue": [
+    "Price-to-Earnings (P/E) Ratio",
+    "Earnings Per Share (EPS)",
+    "Bond yield and its inverse relationship with price",
+    "Short Interest and Days to Cover",
+    "Return on Equity (ROE)",
+    "How to read an earnings report",
+    "Index Fund vs. ETF differences",
+    "Dividend Yield and Payout Ratio",
+    "Sector rotation strategy",
+    "Enterprise Value (EV) and EV/EBITDA",
+    "The VIX (Fear Index)",
+    "Beta and Volatility",
+    "Gross Margin and Operating Margin",
+    "Revenue vs. Net Income",
+    "Market Capitalization tiers (Large/Mid/Small cap)",
+    "52-Week High/Low and Moving Averages",
+    "Price-to-Book (P/B) Ratio",
+    "Free Cash Flow (FCF)",
+    "Dollar-Cost Averaging (DCA)"
+  ],
+  "finance_last": "Debt-to-Equity Ratio",
   "leetcode_queue": [
-    "53. Maximum Subarray [Greedy]",
     "141. Linked List Cycle [Linked List]",
     "39. Combination Sum [Backtracking]",
     "678. Valid Parenthesis String [Greedy]",
@@ -74,15 +93,13 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "62. Unique Paths [2D DP]",
+  "leetcode_last": "53. Maximum Subarray [Greedy]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Street — Candid Shooting Mindset and Ethics [Street]",
     "Video — Audio Basics: On-Camera Mic vs External Recorder [Video]",
     "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
     "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
@@ -90,9 +107,8 @@
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — Lightroom RAW Editing Workflow [Post-Processing]",
+  "photography_last": "Street — Candid Shooting Mindset and Ethics [Street]",
   "youtube_queue": [
-    "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
     "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]",
     "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]",
     "Script — 撰寫標題與縮圖文字的一致性邏輯 [腳本]",
@@ -142,5 +158,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]"
+  "youtube_last": "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]"
 }
