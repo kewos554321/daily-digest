@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Earnings Per Share (EPS)",
     "Bond yield and its inverse relationship with price",
     "Short Interest and Days to Cover",
     "Return on Equity (ROE)",
@@ -19,9 +18,8 @@
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Price-to-Earnings (P/E) Ratio",
+  "finance_last": "Earnings Per Share (EPS)",
   "leetcode_queue": [
-    "39. Combination Sum [Backtracking]",
     "678. Valid Parenthesis String [Greedy]",
     "125. Valid Palindrome [Two Pointers]",
     "217. Contains Duplicate [Arrays & Hashing]",
@@ -91,21 +89,17 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "141. Linked List Cycle [Linked List]",
-  "tech_queue": [
-    "Observability: Metrics, Logs, Traces"
-  ],
-  "tech_last": "LLM RAG Architecture",
+  "leetcode_last": "39. Combination Sum [Backtracking]",
+  "tech_queue": [],
+  "tech_last": "Observability: Metrics, Logs, Traces",
   "photography_queue": [
-    "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
     "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
     "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Video — Audio Basics: On-Camera Mic vs External Recorder [Video]",
+  "photography_last": "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
   "youtube_queue": [
-    "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]",
     "Script — 撰寫標題與縮圖文字的一致性邏輯 [腳本]",
     "攝影Vlog — Gear 開箱類攝影影片的腳本框架 [攝影Vlog]",
     "Script — Hook 開場的 3 種公式：問題、衝突、反直覺陳述 [腳本]",
@@ -153,5 +147,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]"
+  "youtube_last": "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]"
 }
