@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Return on Equity (ROE)",
     "How to read an earnings report",
     "Index Fund vs. ETF differences",
     "Dividend Yield and Payout Ratio",
@@ -16,9 +15,8 @@
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Short Interest and Days to Cover",
+  "finance_last": "Return on Equity (ROE)",
   "leetcode_queue": [
-    "217. Contains Duplicate [Arrays & Hashing]",
     "1143. Longest Common Subsequence [2D DP]",
     "417. Pacific Atlantic Water Flow [Graphs]",
     "253. Meeting Rooms II [Intervals]",
@@ -85,9 +83,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "125. Valid Palindrome [Two Pointers]",
+  "leetcode_last": "217. Contains Duplicate [Arrays & Hashing]",
   "tech_queue": [
-    "Circuit Breaker Pattern",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "LLM RAG Architecture",
     "Event-Driven Architecture",
@@ -106,14 +103,12 @@
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Database Connection Pooling",
+  "tech_last": "Circuit Breaker Pattern",
   "photography_queue": [
-    "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Light — Hard Light vs Soft Light Characteristics [Light]"
   ],
-  "photography_last": "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
+  "photography_last": "Color — Teal and Orange Look: Why It Works [Color Theory]",
   "youtube_queue": [
-    "Script — Hook 開場的 3 種公式：問題、衝突、反直覺陳述 [腳本]",
     "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]",
     "Filmora — 關鍵影格動畫：標題與圖層動態效果 [Filmora]",
     "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]",
@@ -158,5 +153,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "攝影Vlog — Gear 開箱類攝影影片的腳本框架 [攝影Vlog]"
+  "youtube_last": "Script — Hook 開場的 3 種公式：問題、衝突、反直覺陳述 [腳本]"
 }
