@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "How to read an earnings report",
     "Index Fund vs. ETF differences",
     "Dividend Yield and Payout Ratio",
     "Sector rotation strategy",
@@ -15,9 +14,8 @@
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Return on Equity (ROE)",
+  "finance_last": "How to read an earnings report",
   "leetcode_queue": [
-    "1143. Longest Common Subsequence [2D DP]",
     "417. Pacific Atlantic Water Flow [Graphs]",
     "253. Meeting Rooms II [Intervals]",
     "19. Remove Nth Node From End of List [Linked List]",
@@ -83,9 +81,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "217. Contains Duplicate [Arrays & Hashing]",
+  "leetcode_last": "1143. Longest Common Subsequence [2D DP]",
   "tech_queue": [
-    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "LLM RAG Architecture",
     "Event-Driven Architecture",
     "CAP Theorem",
@@ -103,13 +100,10 @@
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Circuit Breaker Pattern",
-  "photography_queue": [
-    "Light — Hard Light vs Soft Light Characteristics [Light]"
-  ],
-  "photography_last": "Color — Teal and Orange Look: Why It Works [Color Theory]",
+  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "photography_queue": [],
+  "photography_last": "Light — Hard Light vs Soft Light Characteristics [Light]",
   "youtube_queue": [
-    "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]",
     "Filmora — 關鍵影格動畫：標題與圖層動態效果 [Filmora]",
     "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]",
     "Script — 轉場口播技巧：如何讓觀眾一直看下去 [腳本]",
@@ -153,5 +147,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Script — Hook 開場的 3 種公式：問題、衝突、反直覺陳述 [腳本]"
+  "youtube_last": "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]"
 }
