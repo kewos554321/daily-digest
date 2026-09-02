@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Sector rotation strategy",
     "Enterprise Value (EV) and EV/EBITDA",
     "The VIX (Fear Index)",
     "Beta and Volatility",
@@ -12,9 +11,8 @@
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Dividend Yield and Payout Ratio",
+  "finance_last": "Sector rotation strategy",
   "leetcode_queue": [
-    "19. Remove Nth Node From End of List [Linked List]",
     "150. Evaluate Reverse Polish Notation [Stack]",
     "25. Reverse Nodes in K-Group [Linked List]",
     "210. Course Schedule II [Graphs]",
@@ -77,9 +75,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "253. Meeting Rooms II [Intervals]",
+  "leetcode_last": "19. Remove Nth Node From End of List [Linked List]",
   "tech_queue": [
-    "CAP Theorem",
     "Zero-downtime Database Migrations",
     "Message Queues (Kafka vs RabbitMQ)",
     "Distributed Transactions and the Saga Pattern",
@@ -94,9 +91,8 @@
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Event-Driven Architecture",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Street — Shooting in Busy Environments without Detection [Street]",
     "Portrait — Butterfly / Clamshell Lighting for Beauty Shots [Portrait]",
     "Sony A7C — S-Cinetone Color Profile for Cinematic Look [Sony A7C]",
     "Portrait — Rembrandt Lighting Setup [Portrait]",
@@ -177,9 +173,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Hyperfocal Distance Explained [Landscape]",
+  "photography_last": "Street — Shooting in Busy Environments without Detection [Street]",
   "youtube_queue": [
-    "Script — 轉場口播技巧：如何讓觀眾一直看下去 [腳本]",
     "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]",
     "旅遊 — 旅遊 Vlog 的音樂選擇與版權注意事項 [旅遊]",
     "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]",
@@ -220,5 +215,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — 音樂與音效庫：免版權素材直接使用 [Filmora]"
+  "youtube_last": "Script — 轉場口播技巧：如何讓觀眾一直看下去 [腳本]"
 }
