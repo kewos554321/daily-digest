@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Gross Margin and Operating Margin",
     "Revenue vs. Net Income",
     "Market Capitalization tiers (Large/Mid/Small cap)",
     "52-Week High/Low and Moving Averages",
@@ -8,9 +7,8 @@
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Gross Margin and Operating Margin",
   "leetcode_queue": [
-    "230. Kth Smallest Element in BST [Trees]",
     "338. Counting Bits [Bit Manipulation]",
     "138. Copy List with Random Pointer [Linked List]",
     "295. Find Median from Data Stream [Heap]",
@@ -69,9 +67,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "210. Course Schedule II [Graphs]",
+  "leetcode_last": "230. Kth Smallest Element in BST [Trees]",
   "tech_queue": [
-    "Kubernetes Pod Scheduling",
     "CQRS and Event Sourcing",
     "Blue-Green vs Canary Deployments",
     "Vector Databases and Embeddings",
@@ -82,9 +79,8 @@
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Portrait — Shallow Depth of Field and Bokeh Control [Portrait]",
     "Landscape — GND Filter Usage for Exposure Balance [Landscape]",
     "Light — Histogram Reading and Expose to the Right [Light]",
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
@@ -161,9 +157,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Portrait — Rembrandt Lighting Setup [Portrait]",
+  "photography_last": "Portrait — Shallow Depth of Field and Bokeh Control [Portrait]",
   "youtube_queue": [
-    "策略 — 如何用第一個 1000 訂閱打基礎 [策略]",
     "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]",
     "AI 剪輯 — Topaz Video AI：低畫質素材升解析度 [AI剪輯]",
     "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
@@ -200,5 +195,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "AI 剪輯 — Adobe Premiere Auto Reframe 與 AI 語音降噪 [AI剪輯]"
+  "youtube_last": "策略 — 如何用第一個 1000 訂閱打基礎 [策略]"
 }
