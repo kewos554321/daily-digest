@@ -1,14 +1,12 @@
 {
   "finance_queue": [
-    "Market Capitalization tiers (Large/Mid/Small cap)",
     "52-Week High/Low and Moving Averages",
     "Price-to-Book (P/B) Ratio",
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
   "leetcode_queue": [
-    "138. Copy List with Random Pointer [Linked List]",
     "295. Find Median from Data Stream [Heap]",
     "226. Invert Binary Tree [Trees]",
     "994. Rotting Oranges [Graphs]",
@@ -65,9 +63,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "338. Counting Bits [Bit Manipulation]",
+  "leetcode_last": "138. Copy List with Random Pointer [Linked List]",
   "tech_queue": [
-    "Blue-Green vs Canary Deployments",
     "Vector Databases and Embeddings",
     "Consistent Hashing",
     "gRPC vs REST vs GraphQL",
@@ -76,9 +73,8 @@
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Blue-Green vs Canary Deployments",
   "photography_queue": [
-    "Light — Histogram Reading and Expose to the Right [Light]",
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
     "Color — Color Grading for Skin Tones [Color Theory]",
     "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
@@ -153,9 +149,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — GND Filter Usage for Exposure Balance [Landscape]",
+  "photography_last": "Light — Histogram Reading and Expose to the Right [Light]",
   "youtube_queue": [
-    "AI 剪輯 — Topaz Video AI：低畫質素材升解析度 [AI剪輯]",
     "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
     "旅遊 — 旅遊影片的 3 幕結構：期待 / 現場 / 反思 [旅遊]",
     "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]",
@@ -190,5 +185,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]"
+  "youtube_last": "AI 剪輯 — Topaz Video AI：低畫質素材升解析度 [AI剪輯]"
 }
