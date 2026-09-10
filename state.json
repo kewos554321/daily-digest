@@ -1,12 +1,10 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Free Cash Flow (FCF)",
     "Dollar-Cost Averaging (DCA)"
   ],
-  "finance_last": "52-Week High/Low and Moving Averages",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "226. Invert Binary Tree [Trees]",
     "994. Rotting Oranges [Graphs]",
     "371. Sum of Two Integers [Bit Manipulation]",
     "139. Word Break [1D DP]",
@@ -61,18 +59,16 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "295. Find Median from Data Stream [Heap]",
+  "leetcode_last": "226. Invert Binary Tree [Trees]",
   "tech_queue": [
-    "Consistent Hashing",
     "gRPC vs REST vs GraphQL",
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Vector Databases and Embeddings",
+  "tech_last": "Consistent Hashing",
   "photography_queue": [
-    "Color — Color Grading for Skin Tones [Color Theory]",
     "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
     "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
     "Special — Food and Product Still Life Lighting [Special]",
@@ -145,9 +141,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
+  "photography_last": "Color — Color Grading for Skin Tones [Color Theory]",
   "youtube_queue": [
-    "旅遊 — 旅遊影片的 3 幕結構：期待 / 現場 / 反思 [旅遊]",
     "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]",
     "Filmora — 分割螢幕與多畫面排版 [Filmora]",
     "剪輯 — 4K 素材剪輯工作流程與代理檔設定 [剪輯]",
@@ -180,5 +175,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]"
+  "youtube_last": "旅遊 — 旅遊影片的 3 幕結構：期待 / 現場 / 反思 [旅遊]"
 }
