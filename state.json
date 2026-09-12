@@ -1,10 +1,7 @@
 {
-  "finance_queue": [
-    "Dollar-Cost Averaging (DCA)"
-  ],
-  "finance_last": "Free Cash Flow (FCF)",
+  "finance_queue": [],
+  "finance_last": "Dollar-Cost Averaging (DCA)",
   "leetcode_queue": [
-    "371. Sum of Two Integers [Bit Manipulation]",
     "139. Word Break [1D DP]",
     "703. Kth Largest Element in a Stream [Heap]",
     "684. Redundant Connection [Graphs]",
@@ -57,16 +54,14 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "994. Rotting Oranges [Graphs]",
+  "leetcode_last": "371. Sum of Two Integers [Bit Manipulation]",
   "tech_queue": [
-    "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "Observability: Metrics, Logs, Traces",
   "photography_queue": [
-    "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
     "Special — Food and Product Still Life Lighting [Special]",
     "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
     "Light — Hard Light vs Soft Light Characteristics [Light]",
@@ -137,9 +132,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
+  "photography_last": "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
   "youtube_queue": [
-    "Filmora — 分割螢幕與多畫面排版 [Filmora]",
     "剪輯 — 4K 素材剪輯工作流程與代理檔設定 [剪輯]",
     "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]",
     "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]",
@@ -170,5 +164,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]"
+  "youtube_last": "Filmora — 分割螢幕與多畫面排版 [Filmora]"
 }
