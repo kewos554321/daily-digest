@@ -1,8 +1,27 @@
 {
-  "finance_queue": [],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_queue": [
+    "Enterprise Value (EV) and EV/EBITDA",
+    "Return on Equity (ROE)",
+    "Beta and Volatility",
+    "Dividend Yield and Payout Ratio",
+    "Gross Margin and Operating Margin",
+    "Price-to-Book (P/B) Ratio",
+    "Revenue vs. Net Income",
+    "The VIX (Fear Index)",
+    "Index Fund vs. ETF differences",
+    "Dollar-Cost Averaging (DCA)",
+    "Earnings Per Share (EPS)",
+    "Short Interest and Days to Cover",
+    "Bond yield and its inverse relationship with price",
+    "Sector rotation strategy",
+    "52-Week High/Low and Moving Averages",
+    "How to read an earnings report",
+    "Debt-to-Equity Ratio",
+    "Free Cash Flow (FCF)",
+    "Market Capitalization tiers (Large/Mid/Small cap)"
+  ],
+  "finance_last": "Price-to-Earnings (P/E) Ratio",
   "leetcode_queue": [
-    "139. Word Break [1D DP]",
     "703. Kth Largest Element in a Stream [Heap]",
     "684. Redundant Connection [Graphs]",
     "50. Pow(x, n) [Math & Geometry]",
@@ -54,15 +73,13 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "371. Sum of Two Integers [Bit Manipulation]",
+  "leetcode_last": "139. Word Break [1D DP]",
   "tech_queue": [
-    "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Observability: Metrics, Logs, Traces",
+  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
   "photography_queue": [
-    "Special — Food and Product Still Life Lighting [Special]",
     "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
     "Light — Hard Light vs Soft Light Characteristics [Light]",
     "Light — Direction of Light: Front / Side / Back [Light]",
@@ -132,9 +149,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Color — Monochromatic Color Schemes in Visual Storytelling [Color Theory]",
+  "photography_last": "Special — Food and Product Still Life Lighting [Special]",
   "youtube_queue": [
-    "剪輯 — 4K 素材剪輯工作流程與代理檔設定 [剪輯]",
     "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]",
     "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]",
     "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
@@ -164,5 +180,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — 分割螢幕與多畫面排版 [Filmora]"
+  "youtube_last": "剪輯 — 4K 素材剪輯工作流程與代理檔設定 [剪輯]"
 }
