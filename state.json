@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Enterprise Value (EV) and EV/EBITDA",
     "Return on Equity (ROE)",
     "Beta and Volatility",
     "Dividend Yield and Payout Ratio",
@@ -20,9 +19,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Price-to-Earnings (P/E) Ratio",
+  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
   "leetcode_queue": [
-    "703. Kth Largest Element in a Stream [Heap]",
     "684. Redundant Connection [Graphs]",
     "50. Pow(x, n) [Math & Geometry]",
     "252. Meeting Rooms [Intervals]",
@@ -73,14 +71,12 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "139. Word Break [1D DP]",
+  "leetcode_last": "703. Kth Largest Element in a Stream [Heap]",
   "tech_queue": [
-    "Database Indexing Strategies",
     "API Versioning Strategies"
   ],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "tech_last": "Database Indexing Strategies",
   "photography_queue": [
-    "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
     "Light — Hard Light vs Soft Light Characteristics [Light]",
     "Light — Direction of Light: Front / Side / Back [Light]",
     "Color — Complementary Colors in Photography [Color Theory]",
@@ -149,9 +145,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Special — Food and Product Still Life Lighting [Special]",
+  "photography_last": "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
   "youtube_queue": [
-    "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]",
     "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]",
     "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
     "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
@@ -180,5 +175,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — 4K 素材剪輯工作流程與代理檔設定 [剪輯]"
+  "youtube_last": "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]"
 }
