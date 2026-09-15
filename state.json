@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Return on Equity (ROE)",
     "Beta and Volatility",
     "Dividend Yield and Payout Ratio",
     "Gross Margin and Operating Margin",
@@ -19,9 +18,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
+  "finance_last": "Return on Equity (ROE)",
   "leetcode_queue": [
-    "684. Redundant Connection [Graphs]",
     "50. Pow(x, n) [Math & Geometry]",
     "252. Meeting Rooms [Intervals]",
     "973. K Closest Points to Origin [Heap]",
@@ -71,13 +69,10 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "703. Kth Largest Element in a Stream [Heap]",
-  "tech_queue": [
-    "API Versioning Strategies"
-  ],
-  "tech_last": "Database Indexing Strategies",
+  "leetcode_last": "684. Redundant Connection [Graphs]",
+  "tech_queue": [],
+  "tech_last": "API Versioning Strategies",
   "photography_queue": [
-    "Light — Hard Light vs Soft Light Characteristics [Light]",
     "Light — Direction of Light: Front / Side / Back [Light]",
     "Color — Complementary Colors in Photography [Color Theory]",
     "Landscape — Long Exposure with ND Filters [Landscape]",
@@ -145,9 +140,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Gear — Flash Photography: TTL vs Manual Mode [Gear]",
+  "photography_last": "Light — Hard Light vs Soft Light Characteristics [Light]",
   "youtube_queue": [
-    "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]",
     "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
     "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
     "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]",
@@ -175,5 +169,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]"
+  "youtube_last": "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]"
 }
