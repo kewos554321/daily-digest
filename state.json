@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Beta and Volatility",
     "Dividend Yield and Payout Ratio",
     "Gross Margin and Operating Margin",
     "Price-to-Book (P/B) Ratio",
@@ -18,9 +17,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Return on Equity (ROE)",
+  "finance_last": "Beta and Volatility",
   "leetcode_queue": [
-    "50. Pow(x, n) [Math & Geometry]",
     "252. Meeting Rooms [Intervals]",
     "973. K Closest Points to Origin [Heap]",
     "198. House Robber [1D DP]",
@@ -69,11 +67,30 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "684. Redundant Connection [Graphs]",
-  "tech_queue": [],
-  "tech_last": "API Versioning Strategies",
+  "leetcode_last": "50. Pow(x, n) [Math & Geometry]",
+  "tech_queue": [
+    "Caching Strategies (Cache-aside, Write-through, Write-back)",
+    "Blue-Green vs Canary Deployments",
+    "CQRS and Event Sourcing",
+    "Consistent Hashing",
+    "API Versioning Strategies",
+    "Event-Driven Architecture",
+    "Message Queues (Kafka vs RabbitMQ)",
+    "gRPC vs REST vs GraphQL",
+    "Distributed Transactions and the Saga Pattern",
+    "CAP Theorem",
+    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+    "Zero-downtime Database Migrations",
+    "Circuit Breaker Pattern",
+    "OAuth 2.0 and JWT internals",
+    "Database Indexing Strategies",
+    "LLM RAG Architecture",
+    "Observability: Metrics, Logs, Traces",
+    "Database Connection Pooling",
+    "Vector Databases and Embeddings"
+  ],
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Light — Direction of Light: Front / Side / Back [Light]",
     "Color — Complementary Colors in Photography [Color Theory]",
     "Landscape — Long Exposure with ND Filters [Landscape]",
     "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
@@ -140,9 +157,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Light — Hard Light vs Soft Light Characteristics [Light]",
+  "photography_last": "Light — Direction of Light: Front / Side / Back [Light]",
   "youtube_queue": [
-    "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
     "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
     "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]",
     "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]",
@@ -169,5 +185,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]"
+  "youtube_last": "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]"
 }
