@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Dividend Yield and Payout Ratio",
     "Gross Margin and Operating Margin",
     "Price-to-Book (P/B) Ratio",
     "Revenue vs. Net Income",
@@ -17,9 +16,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Dividend Yield and Payout Ratio",
   "leetcode_queue": [
-    "252. Meeting Rooms [Intervals]",
     "973. K Closest Points to Origin [Heap]",
     "198. House Robber [1D DP]",
     "3. Longest Substring Without Repeating Characters [Sliding Window]",
@@ -67,9 +65,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "50. Pow(x, n) [Math & Geometry]",
+  "leetcode_last": "252. Meeting Rooms [Intervals]",
   "tech_queue": [
-    "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Blue-Green vs Canary Deployments",
     "CQRS and Event Sourcing",
     "Consistent Hashing",
@@ -89,9 +86,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Kubernetes Pod Scheduling",
+  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
   "photography_queue": [
-    "Color — Complementary Colors in Photography [Color Theory]",
     "Landscape — Long Exposure with ND Filters [Landscape]",
     "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
     "Street — Black & White Conversion for Street Impact [Street]",
@@ -157,9 +153,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Light — Direction of Light: Front / Side / Back [Light]",
+  "photography_last": "Color — Complementary Colors in Photography [Color Theory]",
   "youtube_queue": [
-    "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
     "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]",
     "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]",
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
@@ -185,5 +180,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]"
+  "youtube_last": "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]"
 }
