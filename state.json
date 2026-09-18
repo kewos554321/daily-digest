@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Gross Margin and Operating Margin",
     "Price-to-Book (P/B) Ratio",
     "Revenue vs. Net Income",
     "The VIX (Fear Index)",
@@ -16,9 +15,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Dividend Yield and Payout Ratio",
+  "finance_last": "Gross Margin and Operating Margin",
   "leetcode_queue": [
-    "973. K Closest Points to Origin [Heap]",
     "198. House Robber [1D DP]",
     "3. Longest Substring Without Repeating Characters [Sliding Window]",
     "208. Implement Trie [Tries]",
@@ -65,9 +63,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "252. Meeting Rooms [Intervals]",
+  "leetcode_last": "973. K Closest Points to Origin [Heap]",
   "tech_queue": [
-    "Blue-Green vs Canary Deployments",
     "CQRS and Event Sourcing",
     "Consistent Hashing",
     "API Versioning Strategies",
@@ -86,9 +83,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "tech_last": "Blue-Green vs Canary Deployments",
   "photography_queue": [
-    "Landscape — Long Exposure with ND Filters [Landscape]",
     "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
     "Street — Black & White Conversion for Street Impact [Street]",
     "Light — Overcast Sky as a Natural Softbox [Light]",
@@ -153,9 +149,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Color — Complementary Colors in Photography [Color Theory]",
+  "photography_last": "Landscape — Long Exposure with ND Filters [Landscape]",
   "youtube_queue": [
-    "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]",
     "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]",
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "開箱 — 開箱影片的 Amazon / 聯盟行銷 CTA 策略 [開箱]",
@@ -180,5 +175,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]"
+  "youtube_last": "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]"
 }
