@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Revenue vs. Net Income",
     "The VIX (Fear Index)",
     "Index Fund vs. ETF differences",
@@ -15,9 +14,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Gross Margin and Operating Margin",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "198. House Robber [1D DP]",
     "3. Longest Substring Without Repeating Characters [Sliding Window]",
     "208. Implement Trie [Tries]",
     "207. Course Schedule [Graphs]",
@@ -63,9 +61,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "973. K Closest Points to Origin [Heap]",
+  "leetcode_last": "198. House Robber [1D DP]",
   "tech_queue": [
-    "CQRS and Event Sourcing",
     "Consistent Hashing",
     "API Versioning Strategies",
     "Event-Driven Architecture",
@@ -83,9 +80,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Blue-Green vs Canary Deployments",
+  "tech_last": "CQRS and Event Sourcing",
   "photography_queue": [
-    "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
     "Street — Black & White Conversion for Street Impact [Street]",
     "Light — Overcast Sky as a Natural Softbox [Light]",
     "Post — Lightroom RAW Editing Workflow [Post-Processing]",
@@ -149,9 +145,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Long Exposure with ND Filters [Landscape]",
+  "photography_last": "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
   "youtube_queue": [
-    "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]",
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "開箱 — 開箱影片的 Amazon / 聯盟行銷 CTA 策略 [開箱]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]",
@@ -175,5 +170,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — 字幕設計：字型 / 位置 / 動畫風格 [剪輯]"
+  "youtube_last": "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]"
 }
