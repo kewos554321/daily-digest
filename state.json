@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Revenue vs. Net Income",
     "The VIX (Fear Index)",
     "Index Fund vs. ETF differences",
     "Dollar-Cost Averaging (DCA)",
@@ -14,9 +13,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Price-to-Book (P/B) Ratio",
+  "finance_last": "Revenue vs. Net Income",
   "leetcode_queue": [
-    "3. Longest Substring Without Repeating Characters [Sliding Window]",
     "208. Implement Trie [Tries]",
     "207. Course Schedule [Graphs]",
     "45. Jump Game II [Greedy]",
@@ -61,9 +59,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "198. House Robber [1D DP]",
+  "leetcode_last": "3. Longest Substring Without Repeating Characters [Sliding Window]",
   "tech_queue": [
-    "Consistent Hashing",
     "API Versioning Strategies",
     "Event-Driven Architecture",
     "Message Queues (Kafka vs RabbitMQ)",
@@ -80,9 +77,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Consistent Hashing",
   "photography_queue": [
-    "Street — Black & White Conversion for Street Impact [Street]",
     "Light — Overcast Sky as a Natural Softbox [Light]",
     "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Portrait — Posing Techniques for Flattering Angles [Portrait]",
@@ -145,9 +141,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Portrait — Sony A7C Eye AF and Face Tracking Technique [Portrait]",
+  "photography_last": "Street — Black & White Conversion for Street Impact [Street]",
   "youtube_queue": [
-    "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "開箱 — 開箱影片的 Amazon / 聯盟行銷 CTA 策略 [開箱]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]",
     "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
@@ -170,5 +165,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]"
+  "youtube_last": "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]"
 }
