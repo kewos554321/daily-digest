@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Index Fund vs. ETF differences",
     "Dollar-Cost Averaging (DCA)",
     "Earnings Per Share (EPS)",
     "Short Interest and Days to Cover",
@@ -12,9 +11,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "The VIX (Fear Index)",
+  "finance_last": "Index Fund vs. ETF differences",
   "leetcode_queue": [
-    "207. Course Schedule [Graphs]",
     "45. Jump Game II [Greedy]",
     "76. Minimum Window Substring [Sliding Window]",
     "206. Reverse Linked List [Linked List]",
@@ -57,9 +55,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "208. Implement Trie [Tries]",
+  "leetcode_last": "207. Course Schedule [Graphs]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "Message Queues (Kafka vs RabbitMQ)",
     "gRPC vs REST vs GraphQL",
     "Distributed Transactions and the Saga Pattern",
@@ -74,9 +71,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "API Versioning Strategies",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Portrait — Posing Techniques for Flattering Angles [Portrait]",
     "Landscape — Astro / Night Sky Photography Basics [Landscape]",
     "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
@@ -137,9 +133,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Light — Overcast Sky as a Natural Softbox [Light]",
+  "photography_last": "Post — Lightroom RAW Editing Workflow [Post-Processing]",
   "youtube_queue": [
-    "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]",
     "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
     "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
@@ -160,5 +155,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "開箱 — 開箱影片的 Amazon / 聯盟行銷 CTA 策略 [開箱]"
+  "youtube_last": "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
 }
