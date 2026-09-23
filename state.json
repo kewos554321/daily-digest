@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Dollar-Cost Averaging (DCA)",
     "Earnings Per Share (EPS)",
     "Short Interest and Days to Cover",
     "Bond yield and its inverse relationship with price",
@@ -11,9 +10,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "Dollar-Cost Averaging (DCA)",
   "leetcode_queue": [
-    "45. Jump Game II [Greedy]",
     "76. Minimum Window Substring [Sliding Window]",
     "206. Reverse Linked List [Linked List]",
     "33. Search in Rotated Sorted Array [Binary Search]",
@@ -55,9 +53,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "207. Course Schedule [Graphs]",
+  "leetcode_last": "45. Jump Game II [Greedy]",
   "tech_queue": [
-    "Message Queues (Kafka vs RabbitMQ)",
     "gRPC vs REST vs GraphQL",
     "Distributed Transactions and the Saga Pattern",
     "CAP Theorem",
@@ -71,9 +68,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Event-Driven Architecture",
+  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
   "photography_queue": [
-    "Portrait — Posing Techniques for Flattering Angles [Portrait]",
     "Landscape — Astro / Night Sky Photography Basics [Landscape]",
     "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
     "Street — Zone Focusing for Fast Candid Shots [Street]",
@@ -133,9 +129,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Post — Lightroom RAW Editing Workflow [Post-Processing]",
+  "photography_last": "Portrait — Posing Techniques for Flattering Angles [Portrait]",
   "youtube_queue": [
-    "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
     "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
@@ -155,5 +150,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]"
+  "youtube_last": "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]"
 }
