@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Earnings Per Share (EPS)",
     "Short Interest and Days to Cover",
     "Bond yield and its inverse relationship with price",
     "Sector rotation strategy",
@@ -10,9 +9,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_last": "Earnings Per Share (EPS)",
   "leetcode_queue": [
-    "76. Minimum Window Substring [Sliding Window]",
     "206. Reverse Linked List [Linked List]",
     "33. Search in Rotated Sorted Array [Binary Search]",
     "104. Maximum Depth of Binary Tree [Trees]",
@@ -53,9 +51,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "45. Jump Game II [Greedy]",
+  "leetcode_last": "76. Minimum Window Substring [Sliding Window]",
   "tech_queue": [
-    "gRPC vs REST vs GraphQL",
     "Distributed Transactions and the Saga Pattern",
     "CAP Theorem",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
@@ -68,9 +65,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
+  "tech_last": "gRPC vs REST vs GraphQL",
   "photography_queue": [
-    "Landscape — Astro / Night Sky Photography Basics [Landscape]",
     "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
     "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
@@ -129,9 +125,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Portrait — Posing Techniques for Flattering Angles [Portrait]",
+  "photography_last": "Landscape — Astro / Night Sky Photography Basics [Landscape]",
   "youtube_queue": [
-    "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]",
@@ -150,5 +145,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]"
+  "youtube_last": "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]"
 }
