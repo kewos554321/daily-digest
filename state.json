@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Short Interest and Days to Cover",
     "Bond yield and its inverse relationship with price",
     "Sector rotation strategy",
     "52-Week High/Low and Moving Averages",
@@ -9,9 +8,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Earnings Per Share (EPS)",
+  "finance_last": "Short Interest and Days to Cover",
   "leetcode_queue": [
-    "206. Reverse Linked List [Linked List]",
     "33. Search in Rotated Sorted Array [Binary Search]",
     "104. Maximum Depth of Binary Tree [Trees]",
     "143. Reorder List [Linked List]",
@@ -51,9 +49,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "76. Minimum Window Substring [Sliding Window]",
+  "leetcode_last": "206. Reverse Linked List [Linked List]",
   "tech_queue": [
-    "Distributed Transactions and the Saga Pattern",
     "CAP Theorem",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Zero-downtime Database Migrations",
@@ -65,9 +62,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "Distributed Transactions and the Saga Pattern",
   "photography_queue": [
-    "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
     "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
@@ -125,9 +121,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Astro / Night Sky Photography Basics [Landscape]",
+  "photography_last": "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
   "youtube_queue": [
-    "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]",
     "生活 — Day in the Life 影片的腳本與節奏設計 [生活]",
@@ -145,5 +140,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]"
+  "youtube_last": "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]"
 }
