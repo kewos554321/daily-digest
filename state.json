@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Bond yield and its inverse relationship with price",
     "Sector rotation strategy",
     "52-Week High/Low and Moving Averages",
     "How to read an earnings report",
@@ -8,9 +7,8 @@
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Short Interest and Days to Cover",
+  "finance_last": "Bond yield and its inverse relationship with price",
   "leetcode_queue": [
-    "33. Search in Rotated Sorted Array [Binary Search]",
     "104. Maximum Depth of Binary Tree [Trees]",
     "143. Reorder List [Linked List]",
     "46. Permutations [Backtracking]",
@@ -49,9 +47,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "206. Reverse Linked List [Linked List]",
+  "leetcode_last": "33. Search in Rotated Sorted Array [Binary Search]",
   "tech_queue": [
-    "CAP Theorem",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Zero-downtime Database Migrations",
     "Circuit Breaker Pattern",
@@ -62,9 +59,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Street — Zone Focusing for Fast Candid Shots [Street]",
     "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
     "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Post — Skin Retouching without Overdoing It [Post-Processing]",
@@ -121,9 +117,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Post — Color Grading with HSL and Tone Curves [Post-Processing]",
+  "photography_last": "Street — Zone Focusing for Fast Candid Shots [Street]",
   "youtube_queue": [
-    "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]",
     "生活 — Day in the Life 影片的腳本與節奏設計 [生活]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
@@ -140,5 +135,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]"
+  "youtube_last": "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]"
 }
