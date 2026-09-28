@@ -1,14 +1,12 @@
 {
   "finance_queue": [
-    "52-Week High/Low and Moving Averages",
     "How to read an earnings report",
     "Debt-to-Equity Ratio",
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "Sector rotation strategy",
+  "finance_last": "52-Week High/Low and Moving Averages",
   "leetcode_queue": [
-    "143. Reorder List [Linked List]",
     "46. Permutations [Backtracking]",
     "572. Subtree of Another Tree [Trees]",
     "416. Partition Equal Subset Sum [1D DP]",
@@ -45,9 +43,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "104. Maximum Depth of Binary Tree [Trees]",
+  "leetcode_last": "143. Reorder List [Linked List]",
   "tech_queue": [
-    "Zero-downtime Database Migrations",
     "Circuit Breaker Pattern",
     "OAuth 2.0 and JWT internals",
     "Database Indexing Strategies",
@@ -56,9 +53,8 @@
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "tech_last": "Zero-downtime Database Migrations",
   "photography_queue": [
-    "Color — Teal and Orange Look: Why It Works [Color Theory]",
     "Post — Skin Retouching without Overdoing It [Post-Processing]",
     "Composition — Frame within a Frame Technique [Composition]",
     "Special — Double Exposure: In-Camera vs Post [Special]",
@@ -113,9 +109,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Exposure — ISO Noise and Sony A7C High-ISO Performance [Exposure]",
+  "photography_last": "Color — Teal and Orange Look: Why It Works [Color Theory]",
   "youtube_queue": [
-    "生活 — Day in the Life 影片的腳本與節奏設計 [生活]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
     "開箱 — 科技開箱影片的 5 段腳本公式 [開箱]",
     "AI 剪輯 — Descript：用文字編輯影片的工作流程 [AI剪輯]",
@@ -130,5 +125,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]"
+  "youtube_last": "生活 — Day in the Life 影片的腳本與節奏設計 [生活]"
 }
