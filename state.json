@@ -1,12 +1,10 @@
 {
   "finance_queue": [
-    "Debt-to-Equity Ratio",
     "Free Cash Flow (FCF)",
     "Market Capitalization tiers (Large/Mid/Small cap)"
   ],
-  "finance_last": "How to read an earnings report",
+  "finance_last": "Debt-to-Equity Ratio",
   "leetcode_queue": [
-    "572. Subtree of Another Tree [Trees]",
     "416. Partition Equal Subset Sum [1D DP]",
     "155. Min Stack [Stack]",
     "621. Task Scheduler [Heap]",
@@ -41,18 +39,16 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "46. Permutations [Backtracking]",
+  "leetcode_last": "572. Subtree of Another Tree [Trees]",
   "tech_queue": [
-    "OAuth 2.0 and JWT internals",
     "Database Indexing Strategies",
     "LLM RAG Architecture",
     "Observability: Metrics, Logs, Traces",
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "OAuth 2.0 and JWT internals",
   "photography_queue": [
-    "Composition — Frame within a Frame Technique [Composition]",
     "Special — Double Exposure: In-Camera vs Post [Special]",
     "Landscape — Foreground Interest and Depth [Landscape]",
     "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
@@ -105,9 +101,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Post — Skin Retouching without Overdoing It [Post-Processing]",
+  "photography_last": "Composition — Frame within a Frame Technique [Composition]",
   "youtube_queue": [
-    "開箱 — 科技開箱影片的 5 段腳本公式 [開箱]",
     "AI 剪輯 — Descript：用文字編輯影片的工作流程 [AI剪輯]",
     "生活 — Morning Routine / Night Routine 影片公式 [生活]",
     "剪輯 — End Screen 和 Cards 的策略性放置 [剪輯]",
@@ -120,5 +115,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]"
+  "youtube_last": "開箱 — 科技開箱影片的 5 段腳本公式 [開箱]"
 }
