@@ -1,8 +1,27 @@
 {
-  "finance_queue": [],
-  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
+  "finance_queue": [
+    "Price-to-Book (P/B) Ratio",
+    "Sector rotation strategy",
+    "Bond yield and its inverse relationship with price",
+    "Dollar-Cost Averaging (DCA)",
+    "52-Week High/Low and Moving Averages",
+    "Beta and Volatility",
+    "Price-to-Earnings (P/E) Ratio",
+    "Enterprise Value (EV) and EV/EBITDA",
+    "Gross Margin and Operating Margin",
+    "Market Capitalization tiers (Large/Mid/Small cap)",
+    "Dividend Yield and Payout Ratio",
+    "Index Fund vs. ETF differences",
+    "Revenue vs. Net Income",
+    "Short Interest and Days to Cover",
+    "Earnings Per Share (EPS)",
+    "Debt-to-Equity Ratio",
+    "How to read an earnings report",
+    "Return on Equity (ROE)",
+    "The VIX (Fear Index)"
+  ],
+  "finance_last": "Free Cash Flow (FCF)",
   "leetcode_queue": [
-    "621. Task Scheduler [Heap]",
     "190. Reverse Bits [Bit Manipulation]",
     "72. Edit Distance [2D DP]",
     "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
@@ -34,15 +53,13 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "155. Min Stack [Stack]",
+  "leetcode_last": "621. Task Scheduler [Heap]",
   "tech_queue": [
-    "Observability: Metrics, Logs, Traces",
     "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "LLM RAG Architecture",
+  "tech_last": "Observability: Metrics, Logs, Traces",
   "photography_queue": [
-    "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
     "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
     "Landscape — Shooting Waterfalls and Silky Water [Landscape]",
     "Gear — CPL Filter: How and When to Use It [Gear]",
@@ -92,9 +109,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Foreground Interest and Depth [Landscape]",
+  "photography_last": "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
   "youtube_queue": [
-    "剪輯 — End Screen 和 Cards 的策略性放置 [剪輯]",
     "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]",
     "Filmora — 色彩校正：LUT 套用與 Color Wheels 使用 [Filmora]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
@@ -104,5 +120,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "生活 — Morning Routine / Night Routine 影片公式 [生活]"
+  "youtube_last": "剪輯 — End Screen 和 Cards 的策略性放置 [剪輯]"
 }
