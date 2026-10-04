@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Sector rotation strategy",
     "Bond yield and its inverse relationship with price",
     "Dollar-Cost Averaging (DCA)",
@@ -20,9 +19,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Free Cash Flow (FCF)",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "190. Reverse Bits [Bit Manipulation]",
     "72. Edit Distance [2D DP]",
     "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
     "242. Valid Anagram [Arrays & Hashing]",
@@ -53,14 +51,12 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "621. Task Scheduler [Heap]",
+  "leetcode_last": "190. Reverse Bits [Bit Manipulation]",
   "tech_queue": [
-    "Database Connection Pooling",
     "Vector Databases and Embeddings"
   ],
-  "tech_last": "Observability: Metrics, Logs, Traces",
+  "tech_last": "Database Connection Pooling",
   "photography_queue": [
-    "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
     "Landscape — Shooting Waterfalls and Silky Water [Landscape]",
     "Gear — CPL Filter: How and When to Use It [Gear]",
     "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
@@ -109,9 +105,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Video — Gimbal Operation: Pan, Tilt, Follow Modes [Video]",
+  "photography_last": "Exposure — Aperture Priority vs Manual Mode in the Field [Exposure]",
   "youtube_queue": [
-    "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]",
     "Filmora — 色彩校正：LUT 套用與 Color Wheels 使用 [Filmora]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
@@ -120,5 +115,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — End Screen 和 Cards 的策略性放置 [剪輯]"
+  "youtube_last": "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]"
 }
