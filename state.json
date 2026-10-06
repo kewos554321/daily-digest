@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Bond yield and its inverse relationship with price",
     "Dollar-Cost Averaging (DCA)",
     "52-Week High/Low and Moving Averages",
     "Beta and Volatility",
@@ -18,9 +17,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Sector rotation strategy",
+  "finance_last": "Bond yield and its inverse relationship with price",
   "leetcode_queue": [
-    "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
     "242. Valid Anagram [Arrays & Hashing]",
     "20. Valid Parentheses [Stack]",
     "152. Maximum Product Subarray [1D DP]",
@@ -49,11 +47,30 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "72. Edit Distance [2D DP]",
-  "tech_queue": [],
-  "tech_last": "Vector Databases and Embeddings",
+  "leetcode_last": "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
+  "tech_queue": [
+    "CQRS and Event Sourcing",
+    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+    "Observability: Metrics, Logs, Traces",
+    "Vector Databases and Embeddings",
+    "LLM RAG Architecture",
+    "Zero-downtime Database Migrations",
+    "Event-Driven Architecture",
+    "Distributed Transactions and the Saga Pattern",
+    "Database Connection Pooling",
+    "Blue-Green vs Canary Deployments",
+    "Message Queues (Kafka vs RabbitMQ)",
+    "OAuth 2.0 and JWT internals",
+    "API Versioning Strategies",
+    "gRPC vs REST vs GraphQL",
+    "CAP Theorem",
+    "Database Indexing Strategies",
+    "Circuit Breaker Pattern",
+    "Consistent Hashing",
+    "Caching Strategies (Cache-aside, Write-through, Write-back)"
+  ],
+  "tech_last": "Kubernetes Pod Scheduling",
   "photography_queue": [
-    "Gear — CPL Filter: How and When to Use It [Gear]",
     "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
     "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
     "Composition — Rule of Thirds in Practice [Composition]",
@@ -100,14 +117,13 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Shooting Waterfalls and Silky Water [Landscape]",
+  "photography_last": "Gear — CPL Filter: How and When to Use It [Gear]",
   "youtube_queue": [
-    "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
     "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "Filmora — 色彩校正：LUT 套用與 Color Wheels 使用 [Filmora]"
+  "youtube_last": "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]"
 }
