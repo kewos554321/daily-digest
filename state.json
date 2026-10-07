@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Dollar-Cost Averaging (DCA)",
     "52-Week High/Low and Moving Averages",
     "Beta and Volatility",
     "Price-to-Earnings (P/E) Ratio",
@@ -17,9 +16,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Bond yield and its inverse relationship with price",
+  "finance_last": "Dollar-Cost Averaging (DCA)",
   "leetcode_queue": [
-    "242. Valid Anagram [Arrays & Hashing]",
     "20. Valid Parentheses [Stack]",
     "152. Maximum Product Subarray [1D DP]",
     "79. Word Search [Backtracking]",
@@ -47,9 +45,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
+  "leetcode_last": "242. Valid Anagram [Arrays & Hashing]",
   "tech_queue": [
-    "CQRS and Event Sourcing",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Observability: Metrics, Logs, Traces",
     "Vector Databases and Embeddings",
@@ -69,9 +66,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Kubernetes Pod Scheduling",
+  "tech_last": "CQRS and Event Sourcing",
   "photography_queue": [
-    "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
     "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
     "Composition — Rule of Thirds in Practice [Composition]",
     "Street — Layering and Depth in Street Compositions [Street]",
@@ -117,13 +113,12 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Gear — CPL Filter: How and When to Use It [Gear]",
+  "photography_last": "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
   "youtube_queue": [
-    "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
     "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]"
+  "youtube_last": "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]"
 }
