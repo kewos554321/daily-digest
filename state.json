@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "52-Week High/Low and Moving Averages",
     "Beta and Volatility",
     "Price-to-Earnings (P/E) Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
@@ -16,9 +15,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Dollar-Cost Averaging (DCA)",
+  "finance_last": "52-Week High/Low and Moving Averages",
   "leetcode_queue": [
-    "20. Valid Parentheses [Stack]",
     "152. Maximum Product Subarray [1D DP]",
     "79. Word Search [Backtracking]",
     "56. Merge Intervals [Intervals]",
@@ -45,9 +43,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "242. Valid Anagram [Arrays & Hashing]",
+  "leetcode_last": "20. Valid Parentheses [Stack]",
   "tech_queue": [
-    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Observability: Metrics, Logs, Traces",
     "Vector Databases and Embeddings",
     "LLM RAG Architecture",
@@ -66,9 +63,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
   "photography_queue": [
-    "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
     "Composition — Rule of Thirds in Practice [Composition]",
     "Street — Layering and Depth in Street Compositions [Street]",
     "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
@@ -113,12 +109,11 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Video — 180-Degree Shutter Rule for Natural Motion Blur [Video]",
+  "photography_last": "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
   "youtube_queue": [
-    "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]"
+  "youtube_last": "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]"
 }
