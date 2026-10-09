@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Beta and Volatility",
     "Price-to-Earnings (P/E) Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
     "Gross Margin and Operating Margin",
@@ -15,9 +14,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "52-Week High/Low and Moving Averages",
+  "finance_last": "Beta and Volatility",
   "leetcode_queue": [
-    "152. Maximum Product Subarray [1D DP]",
     "79. Word Search [Backtracking]",
     "56. Merge Intervals [Intervals]",
     "235. Lowest Common Ancestor of BST [Trees]",
@@ -43,9 +41,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "20. Valid Parentheses [Stack]",
+  "leetcode_last": "152. Maximum Product Subarray [1D DP]",
   "tech_queue": [
-    "Observability: Metrics, Logs, Traces",
     "Vector Databases and Embeddings",
     "LLM RAG Architecture",
     "Zero-downtime Database Migrations",
@@ -63,9 +60,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "tech_last": "Observability: Metrics, Logs, Traces",
   "photography_queue": [
-    "Composition — Rule of Thirds in Practice [Composition]",
     "Street — Layering and Depth in Street Compositions [Street]",
     "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
     "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
@@ -109,11 +105,10 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Sony A7C — Best Lens Pairings: FE 85mm, 50mm, 35mm, 24mm [Sony A7C]",
+  "photography_last": "Composition — Rule of Thirds in Practice [Composition]",
   "youtube_queue": [
-    "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "生活 — 如何拍「一個人生活」Vlog：獨居 / 自炊 / 日常 [生活]"
+  "youtube_last": "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]"
 }
