@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Earnings (P/E) Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
     "Gross Margin and Operating Margin",
     "Market Capitalization tiers (Large/Mid/Small cap)",
@@ -14,9 +13,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Price-to-Earnings (P/E) Ratio",
   "leetcode_queue": [
-    "79. Word Search [Backtracking]",
     "56. Merge Intervals [Intervals]",
     "235. Lowest Common Ancestor of BST [Trees]",
     "98. Validate Binary Search Tree [Trees]",
@@ -41,9 +39,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "152. Maximum Product Subarray [1D DP]",
+  "leetcode_last": "79. Word Search [Backtracking]",
   "tech_queue": [
-    "Vector Databases and Embeddings",
     "LLM RAG Architecture",
     "Zero-downtime Database Migrations",
     "Event-Driven Architecture",
@@ -60,9 +57,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Observability: Metrics, Logs, Traces",
+  "tech_last": "Vector Databases and Embeddings",
   "photography_queue": [
-    "Street — Layering and Depth in Street Compositions [Street]",
     "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
     "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
     "Light — Using Reflectors and Diffusers [Light]",
@@ -105,10 +101,9 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Composition — Rule of Thirds in Practice [Composition]",
+  "photography_last": "Street — Layering and Depth in Street Compositions [Street]",
   "youtube_queue": [
-    "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
   ],
-  "youtube_last": "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]"
+  "youtube_last": "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]"
 }
