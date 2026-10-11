@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Enterprise Value (EV) and EV/EBITDA",
     "Gross Margin and Operating Margin",
     "Market Capitalization tiers (Large/Mid/Small cap)",
     "Dividend Yield and Payout Ratio",
@@ -13,9 +12,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Price-to-Earnings (P/E) Ratio",
+  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
   "leetcode_queue": [
-    "56. Merge Intervals [Intervals]",
     "235. Lowest Common Ancestor of BST [Trees]",
     "98. Validate Binary Search Tree [Trees]",
     "136. Single Number [Bit Manipulation]",
@@ -39,9 +37,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "79. Word Search [Backtracking]",
+  "leetcode_last": "56. Merge Intervals [Intervals]",
   "tech_queue": [
-    "LLM RAG Architecture",
     "Zero-downtime Database Migrations",
     "Event-Driven Architecture",
     "Distributed Transactions and the Saga Pattern",
@@ -57,9 +54,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Vector Databases and Embeddings",
+  "tech_last": "LLM RAG Architecture",
   "photography_queue": [
-    "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
     "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
     "Light — Using Reflectors and Diffusers [Light]",
     "Portrait — Window Light and Natural Diffusion [Portrait]",
@@ -101,9 +97,7 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Street — Layering and Depth in Street Compositions [Street]",
-  "youtube_queue": [
-    "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
-  ],
-  "youtube_last": "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]"
+  "photography_last": "Sony A7C — Custom Button Setup for Efficient Shooting [Sony A7C]",
+  "youtube_queue": [],
+  "youtube_last": "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]"
 }
