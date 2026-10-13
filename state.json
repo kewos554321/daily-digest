@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Market Capitalization tiers (Large/Mid/Small cap)",
     "Dividend Yield and Payout Ratio",
     "Index Fund vs. ETF differences",
     "Revenue vs. Net Income",
@@ -11,9 +10,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Gross Margin and Operating Margin",
+  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
   "leetcode_queue": [
-    "98. Validate Binary Search Tree [Trees]",
     "136. Single Number [Bit Manipulation]",
     "100. Same Tree [Trees]",
     "322. Coin Change [1D DP]",
@@ -35,9 +33,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "235. Lowest Common Ancestor of BST [Trees]",
+  "leetcode_last": "98. Validate Binary Search Tree [Trees]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "Distributed Transactions and the Saga Pattern",
     "Database Connection Pooling",
     "Blue-Green vs Canary Deployments",
@@ -51,9 +48,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Zero-downtime Database Migrations",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Light — Using Reflectors and Diffusers [Light]",
     "Portrait — Window Light and Natural Diffusion [Portrait]",
     "Special — Film Photography Aesthetic and Grain Simulation [Special]",
     "Composition — Leading Lines and Visual Flow [Composition]",
@@ -93,9 +89,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Post — Creating a Consistent Personal Style / Preset [Post-Processing]",
+  "photography_last": "Light — Using Reflectors and Diffusers [Light]",
   "youtube_queue": [
-    "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]",
     "策略 — YouTube Analytics 解讀：觀看時長 / CTR / 流量來源 [策略]",
     "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]",
     "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
@@ -167,5 +162,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "Filmora — 分割螢幕與多畫面排版 [Filmora]"
+  "youtube_last": "剪輯 — 色彩校正 vs 色彩分級的差異與流程 [剪輯]"
 }
