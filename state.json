@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Revenue vs. Net Income",
     "Short Interest and Days to Cover",
     "Earnings Per Share (EPS)",
     "Debt-to-Equity Ratio",
@@ -8,9 +7,8 @@
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "Revenue vs. Net Income",
   "leetcode_queue": [
-    "322. Coin Change [1D DP]",
     "70. Climbing Stairs [1D DP]",
     "54. Spiral Matrix [Math & Geometry]",
     "543. Diameter of Binary Tree [Trees]",
@@ -29,9 +27,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "100. Same Tree [Trees]",
+  "leetcode_last": "322. Coin Change [1D DP]",
   "tech_queue": [
-    "Blue-Green vs Canary Deployments",
     "Message Queues (Kafka vs RabbitMQ)",
     "OAuth 2.0 and JWT internals",
     "API Versioning Strategies",
@@ -42,9 +39,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Database Connection Pooling",
+  "tech_last": "Blue-Green vs Canary Deployments",
   "photography_queue": [
-    "Composition — Leading Lines and Visual Flow [Composition]",
     "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
     "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
     "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
@@ -81,9 +77,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Special — Film Photography Aesthetic and Grain Simulation [Special]",
+  "photography_last": "Composition — Leading Lines and Visual Flow [Composition]",
   "youtube_queue": [
-    "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]",
     "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
@@ -152,5 +147,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "Filmora — 匯出設定：YouTube 最佳解析度與碼率 [Filmora]"
+  "youtube_last": "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]"
 }
