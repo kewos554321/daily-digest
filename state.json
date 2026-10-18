@@ -1,15 +1,13 @@
 {
   "finance_queue": [
-    "Short Interest and Days to Cover",
     "Earnings Per Share (EPS)",
     "Debt-to-Equity Ratio",
     "How to read an earnings report",
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_last": "Short Interest and Days to Cover",
   "leetcode_queue": [
-    "70. Climbing Stairs [1D DP]",
     "54. Spiral Matrix [Math & Geometry]",
     "543. Diameter of Binary Tree [Trees]",
     "213. House Robber II [1D DP]",
@@ -27,9 +25,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "322. Coin Change [1D DP]",
+  "leetcode_last": "70. Climbing Stairs [1D DP]",
   "tech_queue": [
-    "Message Queues (Kafka vs RabbitMQ)",
     "OAuth 2.0 and JWT internals",
     "API Versioning Strategies",
     "gRPC vs REST vs GraphQL",
@@ -39,9 +36,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Blue-Green vs Canary Deployments",
+  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
   "photography_queue": [
-    "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
     "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
     "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
     "Video — Audio Basics: On-Camera Mic vs External Recorder [Video]",
@@ -77,9 +73,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Composition — Leading Lines and Visual Flow [Composition]",
+  "photography_last": "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
   "youtube_queue": [
-    "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]",
     "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]",
     "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
     "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]",
@@ -147,5 +142,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "生活 — 生活頻道如何建立個人品牌與辨識度 [生活]"
+  "youtube_last": "Filmora — 介面導覽與基本剪輯工作流程 [Filmora]"
 }
