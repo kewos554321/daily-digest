@@ -1,13 +1,11 @@
 {
   "finance_queue": [
-    "Debt-to-Equity Ratio",
     "How to read an earnings report",
     "Return on Equity (ROE)",
     "The VIX (Fear Index)"
   ],
-  "finance_last": "Earnings Per Share (EPS)",
+  "finance_last": "Debt-to-Equity Ratio",
   "leetcode_queue": [
-    "543. Diameter of Binary Tree [Trees]",
     "213. House Robber II [1D DP]",
     "875. Koko Eating Bananas [Binary Search]",
     "567. Permutation in String [Sliding Window]",
@@ -23,9 +21,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "54. Spiral Matrix [Math & Geometry]",
+  "leetcode_last": "543. Diameter of Binary Tree [Trees]",
   "tech_queue": [
-    "API Versioning Strategies",
     "gRPC vs REST vs GraphQL",
     "CAP Theorem",
     "Database Indexing Strategies",
@@ -33,9 +30,8 @@
     "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "OAuth 2.0 and JWT internals",
+  "tech_last": "API Versioning Strategies",
   "photography_queue": [
-    "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
     "Video — Audio Basics: On-Camera Mic vs External Recorder [Video]",
     "Street — Candid Shooting Mindset and Ethics [Street]",
     "Post — Sharpening and Clarity vs Texture [Post-Processing]",
@@ -69,9 +65,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Exposure — Exposure Compensation in Tricky Situations [Exposure]",
+  "photography_last": "Sony A7C — IBIS In-Body Stabilization Tips and Limits [Sony A7C]",
   "youtube_queue": [
-    "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]",
     "旅遊 — 旅遊影片的 B-Roll 清單：到一個地方要拍什麼 [旅遊]",
     "Script — 影片結構：開場 / 中段 / CTA 的黃金比例 [腳本]",
     "策略 — 社群媒體導流：IG / TikTok 與 YouTube 聯動 [策略]",
@@ -137,5 +132,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "剪輯 — J-Cut 和 L-Cut：讓影片剪輯流暢的技巧 [剪輯]"
+  "youtube_last": "策略 — 上傳頻率 vs 影片品質的平衡策略 [策略]"
 }
