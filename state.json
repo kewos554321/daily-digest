@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Dollar-Cost Averaging (DCA)",
     "Market Capitalization tiers (Large/Mid/Small cap)",
     "The VIX (Fear Index)",
     "Short Interest and Days to Cover",
@@ -20,9 +19,8 @@
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "Dollar-Cost Averaging (DCA)",
   "leetcode_queue": [
-    "297. Serialize and Deserialize Binary Tree [Trees]",
     "2. Add Two Numbers [Linked List]",
     "105. Construct Binary Tree from Preorder and Inorder [Trees]",
     "17. Letter Combinations of a Phone Number [Backtracking]",
@@ -33,14 +31,12 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "300. Longest Increasing Subsequence [1D DP]",
+  "leetcode_last": "297. Serialize and Deserialize Binary Tree [Trees]",
   "tech_queue": [
-    "Consistent Hashing",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "Consistent Hashing",
   "photography_queue": [
-    "Composition — Symmetry and Reflections [Composition]",
     "Composition — Golden Ratio vs Rule of Thirds [Composition]",
     "Post — Noise Reduction: Lightroom AI vs Topaz DeNoise [Post-Processing]",
     "Street — Reading Urban Light and Shadows [Street]",
@@ -69,9 +65,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Video — B-Roll Strategy and Coverage Ratios [Video]",
+  "photography_last": "Composition — Symmetry and Reflections [Composition]",
   "youtube_queue": [
-    "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]",
     "Script — 口語化腳本 vs 逐字稿的選擇時機 [腳本]",
     "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]",
     "策略 — 如何做頻道競品分析找出內容缺口 [策略]",
@@ -132,5 +127,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "開箱 — 開箱燈光佈置：讓產品看起來像廣告的技巧 [開箱]"
+  "youtube_last": "開箱 — 如何做「一個月後使用心得」系列追蹤影片 [開箱]"
 }
