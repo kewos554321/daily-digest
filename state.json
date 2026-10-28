@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Short Interest and Days to Cover",
     "Beta and Volatility",
     "Debt-to-Equity Ratio",
     "Bond yield and its inverse relationship with price",
@@ -17,9 +16,8 @@
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "The VIX (Fear Index)",
+  "finance_last": "Short Interest and Days to Cover",
   "leetcode_queue": [
-    "17. Letter Combinations of a Phone Number [Backtracking]",
     "212. Word Search II [Tries]",
     "238. Product of Array Except Self [Arrays & Hashing]",
     "21. Merge Two Sorted Lists [Linked List]",
@@ -27,9 +25,8 @@
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "105. Construct Binary Tree from Preorder and Inorder [Trees]",
+  "leetcode_last": "17. Letter Combinations of a Phone Number [Backtracking]",
   "tech_queue": [
-    "Event-Driven Architecture",
     "Distributed Transactions and the Saga Pattern",
     "Zero-downtime Database Migrations",
     "Consistent Hashing",
@@ -49,9 +46,8 @@
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Kubernetes Pod Scheduling",
+  "tech_last": "Event-Driven Architecture",
   "photography_queue": [
-    "Street — Reading Urban Light and Shadows [Street]",
     "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
     "Exposure — Metering Modes: Spot vs Matrix vs Center-Weighted [Exposure]",
     "Exposure — Shutter Speed for Motion Freeze vs Blur [Exposure]",
@@ -77,9 +73,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Post — Noise Reduction: Lightroom AI vs Topaz DeNoise [Post-Processing]",
+  "photography_last": "Street — Reading Urban Light and Shadows [Street]",
   "youtube_queue": [
-    "策略 — 如何做頻道競品分析找出內容缺口 [策略]",
     "策略 — 頻道定位：如何找到你的 Niche [策略]",
     "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
@@ -137,5 +132,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "AI 剪輯 — CapCut AI 自動字幕與一鍵剪輯功能教學 [AI剪輯]"
+  "youtube_last": "策略 — 如何做頻道競品分析找出內容缺口 [策略]"
 }
