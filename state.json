@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Debt-to-Equity Ratio",
     "Bond yield and its inverse relationship with price",
     "How to read an earnings report",
     "Revenue vs. Net Income",
@@ -15,17 +14,15 @@
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Debt-to-Equity Ratio",
   "leetcode_queue": [
-    "238. Product of Array Except Self [Arrays & Hashing]",
     "21. Merge Two Sorted Lists [Linked List]",
     "347. Top K Frequent Elements [Arrays & Hashing]",
     "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "212. Word Search II [Tries]",
+  "leetcode_last": "238. Product of Array Except Self [Arrays & Hashing]",
   "tech_queue": [
-    "Zero-downtime Database Migrations",
     "Consistent Hashing",
     "Blue-Green vs Canary Deployments",
     "API Versioning Strategies",
@@ -43,9 +40,8 @@
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Distributed Transactions and the Saga Pattern",
+  "tech_last": "Zero-downtime Database Migrations",
   "photography_queue": [
-    "Exposure — Metering Modes: Spot vs Matrix vs Center-Weighted [Exposure]",
     "Exposure — Shutter Speed for Motion Freeze vs Blur [Exposure]",
     "Composition — Breaking the Rules Intentionally [Composition]",
     "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
@@ -69,9 +65,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Gear — Speedlight vs Strobe for Location Portraits [Gear]",
+  "photography_last": "Exposure — Metering Modes: Spot vs Matrix vs Center-Weighted [Exposure]",
   "youtube_queue": [
-    "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]",
     "攝影Vlog — 如何展示攝影作品集讓觀眾感興趣 [攝影Vlog]",
     "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]",
     "Script — 撰寫標題與縮圖文字的一致性邏輯 [腳本]",
@@ -127,5 +122,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "策略 — 頻道定位：如何找到你的 Niche [策略]"
+  "youtube_last": "AI 剪輯 — VidIQ / TubeBuddy：AI SEO 標題與標籤建議 [AI剪輯]"
 }
