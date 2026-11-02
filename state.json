@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Revenue vs. Net Income",
     "Earnings Per Share (EPS)",
     "Dividend Yield and Payout Ratio",
     "Enterprise Value (EV) and EV/EBITDA",
@@ -12,14 +11,12 @@
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "How to read an earnings report",
+  "finance_last": "Revenue vs. Net Income",
   "leetcode_queue": [
-    "48. Rotate Image [Math & Geometry]",
     "312. Burst Balloons [2D DP]"
   ],
-  "leetcode_last": "347. Top K Frequent Elements [Arrays & Hashing]",
+  "leetcode_last": "48. Rotate Image [Math & Geometry]",
   "tech_queue": [
-    "API Versioning Strategies",
     "CAP Theorem",
     "CQRS and Event Sourcing",
     "Vector Databases and Embeddings",
@@ -34,9 +31,8 @@
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Blue-Green vs Canary Deployments",
+  "tech_last": "API Versioning Strategies",
   "photography_queue": [
-    "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
     "Portrait — Loop Lighting vs Split Lighting [Portrait]",
     "Landscape — Golden Hour and Blue Hour Timing [Landscape]",
     "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
@@ -57,9 +53,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Composition — Breaking the Rules Intentionally [Composition]",
+  "photography_last": "Color — Warm vs Cool Color Temperature Mood [Color Theory]",
   "youtube_queue": [
-    "Script — 撰寫標題與縮圖文字的一致性邏輯 [腳本]",
     "Script — Hook 開場的 3 種公式：問題、衝突、反直覺陳述 [腳本]",
     "AI 剪輯 — Descript：用文字編輯影片的工作流程 [AI剪輯]",
     "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
@@ -112,5 +107,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "策略 — 第一支影片要拍什麼：冷啟動策略 [策略]"
+  "youtube_last": "Script — 撰寫標題與縮圖文字的一致性邏輯 [腳本]"
 }
