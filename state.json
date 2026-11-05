@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Enterprise Value (EV) and EV/EBITDA",
     "Price-to-Earnings (P/E) Ratio",
     "Sector rotation strategy",
     "Return on Equity (ROE)",
@@ -9,9 +8,8 @@
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "Dividend Yield and Payout Ratio",
+  "finance_last": "Enterprise Value (EV) and EV/EBITDA",
   "leetcode_queue": [
-    "49. Group Anagrams [Arrays & Hashing]",
     "78. Subsets [Backtracking]",
     "138. Copy List with Random Pointer [Linked List]",
     "312. Burst Balloons [2D DP]",
@@ -125,9 +123,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "98. Validate Binary Search Tree [Trees]",
+  "leetcode_last": "49. Group Anagrams [Arrays & Hashing]",
   "tech_queue": [
-    "Vector Databases and Embeddings",
     "Message Queues (Kafka vs RabbitMQ)",
     "Database Connection Pooling",
     "Circuit Breaker Pattern",
@@ -139,9 +136,8 @@
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "CQRS and Event Sourcing",
+  "tech_last": "Vector Databases and Embeddings",
   "photography_queue": [
-    "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
     "Gear — ND Filter Strengths: 3-Stop vs 6-Stop vs 10-Stop [Gear]",
     "Video — Rack Focus and Pull Focus Techniques [Video]",
     "Light — Dynamic Range and Avoiding Blown Highlights [Light]",
@@ -159,9 +155,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Landscape — Golden Hour and Blue Hour Timing [Landscape]",
+  "photography_last": "Post — LUT Application for Cinematic Color Grades [Post-Processing]",
   "youtube_queue": [
-    "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]",
     "AI 剪輯 — Runway Gen-2：AI 生成 B-Roll 補足畫面 [AI剪輯]",
     "策略 — Shorts 與長影片的搭配策略 [策略]",
     "策略 — Thumbnail 設計心理學：點擊率 CTR 優化 [策略]",
@@ -211,5 +206,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "AI 剪輯 — Descript：用文字編輯影片的工作流程 [AI剪輯]"
+  "youtube_last": "剪輯 — BGM 選擇與情緒匹配：免版權音樂來源 [剪輯]"
 }
