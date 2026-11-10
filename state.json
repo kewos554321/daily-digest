@@ -1,12 +1,10 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "52-Week High/Low and Moving Averages",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "190. Reverse Bits [Bit Manipulation]",
     "105. Construct Binary Tree from Preorder and Inorder [Trees]",
     "124. Binary Tree Maximum Path Sum [Trees]",
     "242. Valid Anagram [Arrays & Hashing]",
@@ -115,18 +113,16 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "1. Two Sum [Arrays & Hashing]",
+  "leetcode_last": "190. Reverse Bits [Bit Manipulation]",
   "tech_queue": [
-    "LLM RAG Architecture",
     "OAuth 2.0 and JWT internals",
     "Database Indexing Strategies",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "LLM RAG Architecture",
   "photography_queue": [
-    "Sony A7C — AF Tracking Sensitivity and Subject Switch Settings [Sony A7C]",
     "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
     "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
     "Video — Tracking Shot vs Static Shot Storytelling [Video]",
@@ -139,9 +135,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Composition — Negative Space and Minimalism [Composition]",
+  "photography_last": "Sony A7C — AF Tracking Sensitivity and Subject Switch Settings [Sony A7C]",
   "youtube_queue": [
-    "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]",
     "策略 — 如何用第一個 1000 訂閱打基礎 [策略]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]",
     "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
@@ -186,5 +181,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "旅遊 — 日本 / 泰國 / 歐洲各地常見爆款旅遊影片分析 [旅遊]"
+  "youtube_last": "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]"
 }
