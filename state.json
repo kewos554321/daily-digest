@@ -1,11 +1,9 @@
 {
   "finance_queue": [
-    "Free Cash Flow (FCF)",
     "Gross Margin and Operating Margin"
   ],
-  "finance_last": "Price-to-Book (P/B) Ratio",
+  "finance_last": "Free Cash Flow (FCF)",
   "leetcode_queue": [
-    "105. Construct Binary Tree from Preorder and Inorder [Trees]",
     "124. Binary Tree Maximum Path Sum [Trees]",
     "242. Valid Anagram [Arrays & Hashing]",
     "703. Kth Largest Element in a Stream [Heap]",
@@ -113,17 +111,15 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "190. Reverse Bits [Bit Manipulation]",
+  "leetcode_last": "105. Construct Binary Tree from Preorder and Inorder [Trees]",
   "tech_queue": [
-    "OAuth 2.0 and JWT internals",
     "Database Indexing Strategies",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "LLM RAG Architecture",
+  "tech_last": "OAuth 2.0 and JWT internals",
   "photography_queue": [
-    "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
     "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
     "Video — Tracking Shot vs Static Shot Storytelling [Video]",
     "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
@@ -135,9 +131,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Sony A7C — AF Tracking Sensitivity and Subject Switch Settings [Sony A7C]",
+  "photography_last": "Exposure — The Exposure Triangle: Aperture, Shutter, ISO [Exposure]",
   "youtube_queue": [
-    "策略 — 如何用第一個 1000 訂閱打基礎 [策略]",
     "旅遊 — 旅遊頻道定位：背包客 vs 精緻旅遊 vs 本地探索 [旅遊]",
     "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]",
     "Script — 如何用一句話定義影片核心訊息 [腳本]",
@@ -181,5 +176,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "Filmora — AI 自動字幕與字幕樣式設計 [Filmora]"
+  "youtube_last": "策略 — 如何用第一個 1000 訂閱打基礎 [策略]"
 }
