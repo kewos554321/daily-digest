@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "52-Week High/Low and Moving Averages",
     "Revenue vs. Net Income",
     "Price-to-Book (P/B) Ratio",
     "Sector rotation strategy",
@@ -20,9 +19,8 @@
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Price-to-Earnings (P/E) Ratio",
+  "finance_last": "52-Week High/Low and Moving Averages",
   "leetcode_queue": [
-    "703. Kth Largest Element in a Stream [Heap]",
     "230. Kth Smallest Element in BST [Trees]",
     "46. Permutations [Backtracking]",
     "72. Edit Distance [2D DP]",
@@ -127,14 +125,12 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "242. Valid Anagram [Arrays & Hashing]",
+  "leetcode_last": "703. Kth Largest Element in a Stream [Heap]",
   "tech_queue": [
-    "Observability: Metrics, Logs, Traces",
     "Caching Strategies (Cache-aside, Write-through, Write-back)"
   ],
-  "tech_last": "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+  "tech_last": "Observability: Metrics, Logs, Traces",
   "photography_queue": [
-    "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
     "Sony A7C — Silent Shooting and Anti-Distortion Shutter [Sony A7C]",
     "Sony A7C — 4K Video Settings and Overheating Management [Sony A7C]",
     "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
@@ -143,9 +139,8 @@
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Video — Tracking Shot vs Static Shot Storytelling [Video]",
+  "photography_last": "Gear — Tripod Selection: Weight, Head Type, Stability [Gear]",
   "youtube_queue": [
-    "Script — 如何用一句話定義影片核心訊息 [腳本]",
     "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]",
     "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]",
     "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]",
@@ -186,5 +181,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "攝影Vlog — 攝影 Vlog 的敘事結構：出發 / 拍攝 / 反思 [攝影Vlog]"
+  "youtube_last": "Script — 如何用一句話定義影片核心訊息 [腳本]"
 }
