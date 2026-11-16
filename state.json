@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Price-to-Book (P/B) Ratio",
     "Sector rotation strategy",
     "How to read an earnings report",
     "Enterprise Value (EV) and EV/EBITDA",
@@ -18,9 +17,8 @@
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Revenue vs. Net Income",
+  "finance_last": "Price-to-Book (P/B) Ratio",
   "leetcode_queue": [
-    "46. Permutations [Backtracking]",
     "72. Edit Distance [2D DP]",
     "235. Lowest Common Ancestor of BST [Trees]",
     "33. Search in Rotated Sorted Array [Binary Search]",
@@ -123,20 +121,38 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "230. Kth Smallest Element in BST [Trees]",
-  "tech_queue": [],
-  "tech_last": "Caching Strategies (Cache-aside, Write-through, Write-back)",
+  "leetcode_last": "46. Permutations [Backtracking]",
+  "tech_queue": [
+    "API Versioning Strategies",
+    "Message Queues (Kafka vs RabbitMQ)",
+    "Kubernetes Pod Scheduling",
+    "Database Connection Pooling",
+    "OAuth 2.0 and JWT internals",
+    "Zero-downtime Database Migrations",
+    "CQRS and Event Sourcing",
+    "Distributed Transactions and the Saga Pattern",
+    "Observability: Metrics, Logs, Traces",
+    "Consistent Hashing",
+    "Circuit Breaker Pattern",
+    "CAP Theorem",
+    "Event-Driven Architecture",
+    "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
+    "Blue-Green vs Canary Deployments",
+    "LLM RAG Architecture",
+    "Vector Databases and Embeddings",
+    "Caching Strategies (Cache-aside, Write-through, Write-back)",
+    "Database Indexing Strategies"
+  ],
+  "tech_last": "gRPC vs REST vs GraphQL",
   "photography_queue": [
-    "Sony A7C — 4K Video Settings and Overheating Management [Sony A7C]",
     "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
     "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
     "Portrait — Skin Tone Rendering and White Balance [Portrait]",
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Sony A7C — Silent Shooting and Anti-Distortion Shutter [Sony A7C]",
+  "photography_last": "Sony A7C — 4K Video Settings and Overheating Management [Sony A7C]",
   "youtube_queue": [
-    "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]",
     "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
@@ -175,5 +191,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "生活 — 生活 Vlog 如何讓日常變得有趣且有觀看價值 [生活]"
+  "youtube_last": "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]"
 }
