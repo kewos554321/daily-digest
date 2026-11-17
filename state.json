@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Sector rotation strategy",
     "How to read an earnings report",
     "Enterprise Value (EV) and EV/EBITDA",
     "Free Cash Flow (FCF)",
@@ -17,9 +16,8 @@
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Price-to-Book (P/B) Ratio",
+  "finance_last": "Sector rotation strategy",
   "leetcode_queue": [
-    "72. Edit Distance [2D DP]",
     "235. Lowest Common Ancestor of BST [Trees]",
     "33. Search in Rotated Sorted Array [Binary Search]",
     "50. Pow(x, n) [Math & Geometry]",
@@ -121,9 +119,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "46. Permutations [Backtracking]",
+  "leetcode_last": "72. Edit Distance [2D DP]",
   "tech_queue": [
-    "API Versioning Strategies",
     "Message Queues (Kafka vs RabbitMQ)",
     "Kubernetes Pod Scheduling",
     "Database Connection Pooling",
@@ -143,17 +140,15 @@
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies"
   ],
-  "tech_last": "gRPC vs REST vs GraphQL",
+  "tech_last": "API Versioning Strategies",
   "photography_queue": [
-    "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
     "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
     "Portrait — Skin Tone Rendering and White Balance [Portrait]",
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Sony A7C — 4K Video Settings and Overheating Management [Sony A7C]",
+  "photography_last": "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
   "youtube_queue": [
-    "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]",
     "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]",
@@ -191,5 +186,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "開箱 — 開箱影片的 Thumbnail 設計：對比 / 表情 / 文字 [開箱]"
+  "youtube_last": "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]"
 }
