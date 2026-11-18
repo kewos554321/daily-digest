@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "How to read an earnings report",
     "Enterprise Value (EV) and EV/EBITDA",
     "Free Cash Flow (FCF)",
     "Return on Equity (ROE)",
@@ -16,9 +15,8 @@
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Sector rotation strategy",
+  "finance_last": "How to read an earnings report",
   "leetcode_queue": [
-    "235. Lowest Common Ancestor of BST [Trees]",
     "33. Search in Rotated Sorted Array [Binary Search]",
     "50. Pow(x, n) [Math & Geometry]",
     "208. Implement Trie [Tries]",
@@ -119,9 +117,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "72. Edit Distance [2D DP]",
+  "leetcode_last": "235. Lowest Common Ancestor of BST [Trees]",
   "tech_queue": [
-    "Message Queues (Kafka vs RabbitMQ)",
     "Kubernetes Pod Scheduling",
     "Database Connection Pooling",
     "OAuth 2.0 and JWT internals",
@@ -140,16 +137,14 @@
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies"
   ],
-  "tech_last": "API Versioning Strategies",
+  "tech_last": "Message Queues (Kafka vs RabbitMQ)",
   "photography_queue": [
-    "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
     "Portrait — Skin Tone Rendering and White Balance [Portrait]",
     "Special — Macro Photography: Extension Tubes vs Macro Lens [Special]",
     "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]"
   ],
-  "photography_last": "Special — Shooting Coffee and Beverages (Splash, Steam) [Special]",
+  "photography_last": "Post — RAW vs JPEG: Pros and Cons in Practice [Post-Processing]",
   "youtube_queue": [
-    "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]",
     "旅遊 — 如何在旅途中快速剪輯發短影片 [旅遊]",
     "剪輯 — 轉場的克制使用：何時不要加特效 [剪輯]",
     "開箱 — 評測 vs 開箱 vs 使用心得的定位差異 [開箱]",
@@ -186,5 +181,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "旅遊 — 一個人旅遊 Vlog 的自拍技巧與腳架使用 [旅遊]"
+  "youtube_last": "Script — 如何在 60 秒內完成完整 Short 腳本 [腳本]"
 }
