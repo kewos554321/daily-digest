@@ -1,6 +1,5 @@
 {
   "finance_queue": [
-    "Gross Margin and Operating Margin",
     "Bond yield and its inverse relationship with price",
     "Debt-to-Equity Ratio",
     "Beta and Volatility",
@@ -11,9 +10,8 @@
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Index Fund vs. ETF differences",
+  "finance_last": "Gross Margin and Operating Margin",
   "leetcode_queue": [
-    "127. Word Ladder [Graphs]",
     "200. Number of Islands [Graphs]",
     "704. Binary Search [Binary Search]",
     "684. Redundant Connection [Graphs]",
@@ -109,9 +107,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "150. Evaluate Reverse Polish Notation [Stack]",
+  "leetcode_last": "127. Word Ladder [Graphs]",
   "tech_queue": [
-    "CQRS and Event Sourcing",
     "Distributed Transactions and the Saga Pattern",
     "Observability: Metrics, Logs, Traces",
     "Consistent Hashing",
@@ -125,9 +122,8 @@
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies"
   ],
-  "tech_last": "Zero-downtime Database Migrations",
+  "tech_last": "CQRS and Event Sourcing",
   "photography_queue": [
-    "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]",
     "Video — IBIS + OIS Combo for Handheld Smoothness [Video]",
     "Special — Film Photography Aesthetic and Grain Simulation [Special]",
     "Composition — Leading Lines and Visual Flow [Composition]",
@@ -209,9 +205,8 @@
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
     "Street — Zone Focusing for Fast Candid Shots [Street]"
   ],
-  "photography_last": "Light — Hard Light vs Soft Light Characteristics [Light]",
+  "photography_last": "Sony A7C — S-Log2 vs S-Log3: When to Use Each [Sony A7C]",
   "youtube_queue": [
-    "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]",
     "旅遊 — 旅遊 Vlog 的音樂選擇與版權注意事項 [旅遊]",
     "攝影Vlog — 如何用 Sony A7C 拍出 Cinematic Vlog 感 [攝影Vlog]",
     "旅遊 — 旅遊影片的 3 幕結構：期待 / 現場 / 反思 [旅遊]",
@@ -243,5 +238,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "開箱 — 開箱影片的 Amazon / 聯盟行銷 CTA 策略 [開箱]"
+  "youtube_last": "攝影Vlog — Photo Walk 影片：路線規劃與剪輯節奏 [攝影Vlog]"
 }
