@@ -1,15 +1,13 @@
 {
   "finance_queue": [
-    "Market Capitalization tiers (Large/Mid/Small cap)",
     "Earnings Per Share (EPS)",
     "Dollar-Cost Averaging (DCA)",
     "The VIX (Fear Index)",
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Beta and Volatility",
+  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
   "leetcode_queue": [
-    "1046. Last Stone Weight [Heap]",
     "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
     "300. Longest Increasing Subsequence [1D DP]",
     "3. Longest Substring Without Repeating Characters [Sliding Window]",
@@ -101,9 +99,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "684. Redundant Connection [Graphs]",
+  "leetcode_last": "1046. Last Stone Weight [Heap]",
   "tech_queue": [
-    "Circuit Breaker Pattern",
     "CAP Theorem",
     "Event-Driven Architecture",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
@@ -113,9 +110,8 @@
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies"
   ],
-  "tech_last": "Consistent Hashing",
+  "tech_last": "Circuit Breaker Pattern",
   "photography_queue": [
-    "Light — Using Reflectors and Diffusers [Light]",
     "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Landscape — Foreground Interest and Depth [Landscape]",
     "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
@@ -193,9 +189,8 @@
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
     "Street — Zone Focusing for Fast Candid Shots [Street]"
   ],
-  "photography_last": "Composition — Leading Lines and Visual Flow [Composition]",
+  "photography_last": "Light — Using Reflectors and Diffusers [Light]",
   "youtube_queue": [
-    "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]",
     "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]",
     "生活 — Day in the Life 影片的腳本與節奏設計 [生活]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
@@ -223,5 +218,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "旅遊 — 旅遊影片的 3 幕結構：期待 / 現場 / 反思 [旅遊]"
+  "youtube_last": "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]"
 }
