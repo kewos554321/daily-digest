@@ -1,14 +1,12 @@
 {
   "finance_queue": [
-    "Earnings Per Share (EPS)",
     "Dollar-Cost Averaging (DCA)",
     "The VIX (Fear Index)",
     "Dividend Yield and Payout Ratio",
     "Short Interest and Days to Cover"
   ],
-  "finance_last": "Market Capitalization tiers (Large/Mid/Small cap)",
+  "finance_last": "Earnings Per Share (EPS)",
   "leetcode_queue": [
-    "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
     "300. Longest Increasing Subsequence [1D DP]",
     "3. Longest Substring Without Repeating Characters [Sliding Window]",
     "417. Pacific Atlantic Water Flow [Graphs]",
@@ -99,9 +97,8 @@
     "143. Reorder List [Linked List]",
     "973. K Closest Points to Origin [Heap]"
   ],
-  "leetcode_last": "1046. Last Stone Weight [Heap]",
+  "leetcode_last": "309. Best Time to Buy and Sell Stock with Cooldown [2D DP]",
   "tech_queue": [
-    "CAP Theorem",
     "Event-Driven Architecture",
     "Rate Limiting Algorithms (Token Bucket, Leaky Bucket)",
     "Blue-Green vs Canary Deployments",
@@ -110,9 +107,8 @@
     "Caching Strategies (Cache-aside, Write-through, Write-back)",
     "Database Indexing Strategies"
   ],
-  "tech_last": "Circuit Breaker Pattern",
+  "tech_last": "CAP Theorem",
   "photography_queue": [
-    "Post — Lightroom RAW Editing Workflow [Post-Processing]",
     "Landscape — Foreground Interest and Depth [Landscape]",
     "Landscape — Focus Stacking for Maximum Sharpness [Landscape]",
     "Video — Dolly Zoom (Vertigo Effect) Technique [Video]",
@@ -189,9 +185,8 @@
     "Street — Lens Choice for Street: 28mm vs 35mm vs 50mm [Street]",
     "Street — Zone Focusing for Fast Candid Shots [Street]"
   ],
-  "photography_last": "Light — Using Reflectors and Diffusers [Light]",
+  "photography_last": "Post — Lightroom RAW Editing Workflow [Post-Processing]",
   "youtube_queue": [
-    "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]",
     "生活 — Day in the Life 影片的腳本與節奏設計 [生活]",
     "Filmora — AI 降噪與人聲增強功能 [Filmora]",
     "開箱 — 科技開箱影片的 5 段腳本公式 [開箱]",
@@ -218,5 +213,5 @@
     "Filmora — 轉場效果的選擇與克制使用原則 [Filmora]",
     "生活 — 生活 Vlog 的剪輯節奏：快切 vs 留白 [生活]"
   ],
-  "youtube_last": "攝影Vlog — Behind the Shot：解析一張照片的拍攝決策 [攝影Vlog]"
+  "youtube_last": "開箱 — 如何用 Sony A7C 拍出質感開箱影片 [開箱]"
 }
